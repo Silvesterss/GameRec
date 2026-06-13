@@ -22,13 +22,69 @@ class DataStore {
     }
     
     /// 获取种子数据Bundle路径
+    /// 兼容多种打包结构：folder 引用会保留 Data/SeedData 子目录；普通资源引用会平铺到 bundle 根目录
     private func seedDataURL(filename: String) -> URL? {
-        return Bundle.main.url(forResource: filename, withExtension: "json", subdirectory: "Data/SeedData")
+        // 依次尝试不同的子目录结构，任意命中即返回
+        let candidateSubdirectories: [String?] = ["Data/SeedData", "SeedData", nil]
+        for subdirectory in candidateSubdirectories {
+            if let url = Bundle.main.url(forResource: filename, withExtension: "json", subdirectory: subdirectory) {
+                return url
+            }
+        }
+        return nil
     }
     
     /// 获取用户数据文件路径
     private func userDataURL(filename: String) -> URL {
         return documentsDirectory.appendingPathComponent(filename)
+    }
+
+    // MARK: - 日期解码
+
+    /// 兼容多种 ISO8601 格式的日期解码策略
+    /// Python 的 isoformat() 会输出带微秒的时间（如 2026-06-13T11:31:22.010322），
+    /// Swift 的 .iso8601 默认不支持小数秒，这里用自定义策略同时兼容「带/不带小数秒」「带/不带时区」。
+    private static let dateDecodingStrategy: JSONDecoder.DateDecodingStrategy = .custom { decoder in
+        let container = try decoder.singleValueContainer()
+        let dateString = try container.decode(String.self)
+
+        // 依次尝试多种 formatter
+        let isoWithFractional = ISO8601DateFormatter()
+        isoWithFractional.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+        if let date = isoWithFractional.date(from: dateString) {
+            return date
+        }
+
+        let isoStandard = ISO8601DateFormatter()
+        isoStandard.formatOptions = [.withInternetDateTime]
+        if let date = isoStandard.date(from: dateString) {
+            return date
+        }
+
+        // 无时区的本地格式（Python isoformat 默认不带时区），带/不带微秒各试一次
+        for format in ["yyyy-MM-dd'T'HH:mm:ss.SSSSSS", "yyyy-MM-dd'T'HH:mm:ss"] {
+            let formatter = DateFormatter()
+            formatter.locale = Locale(identifier: "en_US_POSIX")
+            formatter.timeZone = TimeZone.current
+            formatter.dateFormat = format
+            if let date = formatter.date(from: dateString) {
+                return date
+            }
+        }
+
+        throw DecodingError.dataCorrupted(
+            DecodingError.Context(
+                codingPath: decoder.codingPath,
+                debugDescription: "无法解析日期字符串: \(dateString)"
+            )
+        )
+    }
+
+    /// 统一的 JSONDecoder（含自定义日期策略）
+    private func makeDecoder() -> JSONDecoder {
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = DataStore.dateDecodingStrategy
+        return decoder
     }
     
     // MARK: - 通用加载方法
@@ -40,8 +96,7 @@ class DataStore {
         }
         
         let data = try Data(contentsOf: url)
-        let decoder = JSONDecoder()
-        decoder.dateDecodingStrategy = .iso8601
+        let decoder = makeDecoder()
         
         do {
             return try decoder.decode(T.self, from: data)
@@ -59,8 +114,7 @@ class DataStore {
         }
         
         let data = try Data(contentsOf: url)
-        let decoder = JSONDecoder()
-        decoder.dateDecodingStrategy = .iso8601
+        let decoder = makeDecoder()
         
         do {
             return try decoder.decode(T.self, from: data)

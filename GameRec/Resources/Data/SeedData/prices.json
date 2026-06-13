@@ -7,7 +7,7 @@
     "currentPrice": 178.8,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727397"
+    "lastUpdated": "2026-06-13T11:39:47.939857"
   },
   {
     "id": "game_001_Steam",
@@ -17,7 +17,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727424"
+    "lastUpdated": "2026-06-13T11:39:47.939863"
   },
   {
     "id": "game_002_PSN",
@@ -27,7 +27,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727431"
+    "lastUpdated": "2026-06-13T11:39:47.939866"
   },
   {
     "id": "game_002_Steam",
@@ -37,7 +37,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727434"
+    "lastUpdated": "2026-06-13T11:39:47.939868"
   },
   {
     "id": "game_003_PSN",
@@ -47,7 +47,7 @@
     "currentPrice": 158.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727440"
+    "lastUpdated": "2026-06-13T11:39:47.939870"
   },
   {
     "id": "game_003_Steam",
@@ -57,7 +57,7 @@
     "currentPrice": 198.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727442"
+    "lastUpdated": "2026-06-13T11:39:47.939871"
   },
   {
     "id": "game_004_PSN",
@@ -67,7 +67,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727446"
+    "lastUpdated": "2026-06-13T11:39:47.939873"
   },
   {
     "id": "game_004_Steam",
@@ -77,7 +77,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727449"
+    "lastUpdated": "2026-06-13T11:39:47.939874"
   },
   {
     "id": "game_004_Switch",
@@ -87,7 +87,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727451"
+    "lastUpdated": "2026-06-13T11:39:47.939875"
   },
   {
     "id": "game_005_PSN",
@@ -97,7 +97,7 @@
     "currentPrice": 320.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727455"
+    "lastUpdated": "2026-06-13T11:39:47.939877"
   },
   {
     "id": "game_005_Steam",
@@ -107,7 +107,7 @@
     "currentPrice": 458.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727457"
+    "lastUpdated": "2026-06-13T11:39:47.939878"
   },
   {
     "id": "game_006_PSN",
@@ -117,7 +117,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727460"
+    "lastUpdated": "2026-06-13T11:39:47.939880"
   },
   {
     "id": "game_006_Steam",
@@ -127,7 +127,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727462"
+    "lastUpdated": "2026-06-13T11:39:47.939881"
   },
   {
     "id": "game_007_PSN",
@@ -137,7 +137,7 @@
     "currentPrice": 127.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727465"
+    "lastUpdated": "2026-06-13T11:39:47.939882"
   },
   {
     "id": "game_007_Steam",
@@ -147,7 +147,7 @@
     "currentPrice": 127.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727467"
+    "lastUpdated": "2026-06-13T11:39:47.939883"
   },
   {
     "id": "game_007_Switch",
@@ -157,7 +157,7 @@
     "currentPrice": 127.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727469"
+    "lastUpdated": "2026-06-13T11:39:47.939884"
   },
   {
     "id": "game_008_PSN",
@@ -167,7 +167,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727472"
+    "lastUpdated": "2026-06-13T11:39:47.939885"
   },
   {
     "id": "game_008_Steam",
@@ -177,7 +177,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727475"
+    "lastUpdated": "2026-06-13T11:39:47.939887"
   },
   {
     "id": "game_008_Switch",
@@ -187,7 +187,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727477"
+    "lastUpdated": "2026-06-13T11:39:47.939888"
   },
   {
     "id": "game_009_PSN",
@@ -197,7 +197,7 @@
     "currentPrice": 45.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727480"
+    "lastUpdated": "2026-06-13T11:39:47.939890"
   },
   {
     "id": "game_009_Steam",
@@ -207,7 +207,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727482"
+    "lastUpdated": "2026-06-13T11:39:47.939891"
   },
   {
     "id": "game_009_Switch",
@@ -217,7 +217,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727484"
+    "lastUpdated": "2026-06-13T11:39:47.939892"
   },
   {
     "id": "game_010_Steam",
@@ -227,7 +227,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727487"
+    "lastUpdated": "2026-06-13T11:39:47.939893"
   },
   {
     "id": "game_010_Switch",
@@ -237,7 +237,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727489"
+    "lastUpdated": "2026-06-13T11:39:47.939894"
   },
   {
     "id": "game_011_PSN",
@@ -247,7 +247,7 @@
     "currentPrice": 48.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727492"
+    "lastUpdated": "2026-06-13T11:39:47.939896"
   },
   {
     "id": "game_011_Steam",
@@ -257,7 +257,7 @@
     "currentPrice": 38.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727494"
+    "lastUpdated": "2026-06-13T11:39:47.939897"
   },
   {
     "id": "game_011_Switch",
@@ -267,7 +267,7 @@
     "currentPrice": 48.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727496"
+    "lastUpdated": "2026-06-13T11:39:47.939898"
   },
   {
     "id": "game_012_Steam",
@@ -277,7 +277,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727499"
+    "lastUpdated": "2026-06-13T11:39:47.939900"
   },
   {
     "id": "game_013_PSN",
@@ -287,7 +287,7 @@
     "currentPrice": 299.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727503"
+    "lastUpdated": "2026-06-13T11:39:47.939902"
   },
   {
     "id": "game_013_Steam",
@@ -297,7 +297,7 @@
     "currentPrice": 299.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727505"
+    "lastUpdated": "2026-06-13T11:39:47.939903"
   },
   {
     "id": "game_013_Switch",
@@ -307,7 +307,7 @@
     "currentPrice": 299.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727507"
+    "lastUpdated": "2026-06-13T11:39:47.939903"
   },
   {
     "id": "game_014_PSN",
@@ -317,7 +317,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727510"
+    "lastUpdated": "2026-06-13T11:39:47.939905"
   },
   {
     "id": "game_014_Steam",
@@ -327,7 +327,7 @@
     "currentPrice": 119.4,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727512"
+    "lastUpdated": "2026-06-13T11:39:47.939906"
   },
   {
     "id": "game_015_PSN",
@@ -337,7 +337,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727516"
+    "lastUpdated": "2026-06-13T11:39:47.939908"
   },
   {
     "id": "game_015_Steam",
@@ -347,7 +347,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727517"
+    "lastUpdated": "2026-06-13T11:39:47.939909"
   },
   {
     "id": "game_016_PSN",
@@ -357,7 +357,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727526"
+    "lastUpdated": "2026-06-13T11:39:47.939911"
   },
   {
     "id": "game_017_PSN",
@@ -367,7 +367,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727530"
+    "lastUpdated": "2026-06-13T11:39:47.939913"
   },
   {
     "id": "game_017_Steam",
@@ -377,7 +377,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727532"
+    "lastUpdated": "2026-06-13T11:39:47.939914"
   },
   {
     "id": "game_017_Switch",
@@ -387,7 +387,7 @@
     "currentPrice": 47.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727535"
+    "lastUpdated": "2026-06-13T11:39:47.939915"
   },
   {
     "id": "game_018_PSN",
@@ -397,7 +397,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727539"
+    "lastUpdated": "2026-06-13T11:39:47.939917"
   },
   {
     "id": "game_018_Steam",
@@ -407,7 +407,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727540"
+    "lastUpdated": "2026-06-13T11:39:47.939918"
   },
   {
     "id": "game_018_Switch",
@@ -417,7 +417,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727542"
+    "lastUpdated": "2026-06-13T11:39:47.939919"
   },
   {
     "id": "game_019_PSN",
@@ -427,7 +427,7 @@
     "currentPrice": 98.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727546"
+    "lastUpdated": "2026-06-13T11:39:47.939921"
   },
   {
     "id": "game_019_Steam",
@@ -437,7 +437,7 @@
     "currentPrice": 98.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727548"
+    "lastUpdated": "2026-06-13T11:39:47.939922"
   },
   {
     "id": "game_019_Switch",
@@ -447,7 +447,7 @@
     "currentPrice": 98.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727550"
+    "lastUpdated": "2026-06-13T11:39:47.939923"
   },
   {
     "id": "game_020_Steam",
@@ -457,7 +457,7 @@
     "currentPrice": 88.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727553"
+    "lastUpdated": "2026-06-13T11:39:47.939924"
   },
   {
     "id": "game_021_PSN",
@@ -467,7 +467,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727557"
+    "lastUpdated": "2026-06-13T11:39:47.939926"
   },
   {
     "id": "game_021_Steam",
@@ -477,7 +477,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727559"
+    "lastUpdated": "2026-06-13T11:39:47.939927"
   },
   {
     "id": "game_021_Switch",
@@ -487,7 +487,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727561"
+    "lastUpdated": "2026-06-13T11:39:47.939928"
   },
   {
     "id": "game_022_Steam",
@@ -497,7 +497,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727564"
+    "lastUpdated": "2026-06-13T11:39:47.939930"
   },
   {
     "id": "game_023_Steam",
@@ -507,7 +507,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727570"
+    "lastUpdated": "2026-06-13T11:39:47.939932"
   },
   {
     "id": "game_024_PSN",
@@ -517,7 +517,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727577"
+    "lastUpdated": "2026-06-13T11:39:47.939934"
   },
   {
     "id": "game_024_Switch",
@@ -527,7 +527,7 @@
     "currentPrice": 27.2,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727579"
+    "lastUpdated": "2026-06-13T11:39:47.939935"
   },
   {
     "id": "game_025_Steam",
@@ -537,7 +537,7 @@
     "currentPrice": 138.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727587"
+    "lastUpdated": "2026-06-13T11:39:47.939937"
   },
   {
     "id": "game_025_PSN",
@@ -547,7 +547,7 @@
     "currentPrice": 198.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727589"
+    "lastUpdated": "2026-06-13T11:39:47.939938"
   },
   {
     "id": "game_026_PSN",
@@ -557,7 +557,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727592"
+    "lastUpdated": "2026-06-13T11:39:47.939940"
   },
   {
     "id": "game_026_Switch",
@@ -567,7 +567,7 @@
     "currentPrice": 72.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727594"
+    "lastUpdated": "2026-06-13T11:39:47.939941"
   },
   {
     "id": "game_027_Steam",
@@ -577,7 +577,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727600"
+    "lastUpdated": "2026-06-13T11:39:47.939943"
   },
   {
     "id": "game_028_Steam",
@@ -587,7 +587,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727603"
+    "lastUpdated": "2026-06-13T11:39:47.939944"
   },
   {
     "id": "game_028_PSN",
@@ -597,7 +597,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727605"
+    "lastUpdated": "2026-06-13T11:39:47.939945"
   },
   {
     "id": "game_028_Switch",
@@ -607,7 +607,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727607"
+    "lastUpdated": "2026-06-13T11:39:47.939946"
   },
   {
     "id": "game_029_Steam",
@@ -617,7 +617,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727611"
+    "lastUpdated": "2026-06-13T11:39:47.939948"
   },
   {
     "id": "game_030_Steam",
@@ -627,7 +627,7 @@
     "currentPrice": 72.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727615"
+    "lastUpdated": "2026-06-13T11:39:47.939950"
   },
   {
     "id": "game_030_Switch",
@@ -637,7 +637,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727617"
+    "lastUpdated": "2026-06-13T11:39:47.939951"
   },
   {
     "id": "game_030_PSN",
@@ -647,7 +647,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727618"
+    "lastUpdated": "2026-06-13T11:39:47.939951"
   },
   {
     "id": "game_031_Switch",
@@ -657,7 +657,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727623"
+    "lastUpdated": "2026-06-13T11:39:47.939953"
   },
   {
     "id": "game_032_PSN",
@@ -667,7 +667,7 @@
     "currentPrice": 36.0,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727627"
+    "lastUpdated": "2026-06-13T11:39:47.939955"
   },
   {
     "id": "game_032_Switch",
@@ -677,7 +677,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727629"
+    "lastUpdated": "2026-06-13T11:39:47.939956"
   },
   {
     "id": "game_033_Steam",
@@ -687,7 +687,7 @@
     "currentPrice": 318.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727633"
+    "lastUpdated": "2026-06-13T11:39:47.939959"
   },
   {
     "id": "game_033_Switch",
@@ -697,7 +697,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727635"
+    "lastUpdated": "2026-06-13T11:39:47.939960"
   },
   {
     "id": "game_034_Steam",
@@ -707,7 +707,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727638"
+    "lastUpdated": "2026-06-13T11:39:47.939962"
   },
   {
     "id": "game_035_Switch",
@@ -717,7 +717,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727642"
+    "lastUpdated": "2026-06-13T11:39:47.939963"
   },
   {
     "id": "game_036_Switch",
@@ -727,7 +727,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727650"
+    "lastUpdated": "2026-06-13T11:39:47.939965"
   },
   {
     "id": "game_036_PSN",
@@ -737,7 +737,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727652"
+    "lastUpdated": "2026-06-13T11:39:47.939966"
   },
   {
     "id": "game_036_Steam",
@@ -747,7 +747,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727654"
+    "lastUpdated": "2026-06-13T11:39:47.939967"
   },
   {
     "id": "game_037_PSN",
@@ -757,7 +757,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727658"
+    "lastUpdated": "2026-06-13T11:39:47.939969"
   },
   {
     "id": "game_037_Switch",
@@ -767,7 +767,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727660"
+    "lastUpdated": "2026-06-13T11:39:47.939970"
   },
   {
     "id": "game_037_Steam",
@@ -777,7 +777,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727663"
+    "lastUpdated": "2026-06-13T11:39:47.939971"
   },
   {
     "id": "game_038_Switch",
@@ -787,7 +787,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727667"
+    "lastUpdated": "2026-06-13T11:39:47.939972"
   },
   {
     "id": "game_038_PSN",
@@ -797,7 +797,7 @@
     "currentPrice": 36.0,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727669"
+    "lastUpdated": "2026-06-13T11:39:47.939973"
   },
   {
     "id": "game_039_PSN",
@@ -807,7 +807,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727673"
+    "lastUpdated": "2026-06-13T11:39:47.939975"
   },
   {
     "id": "game_040_Steam",
@@ -817,7 +817,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727677"
+    "lastUpdated": "2026-06-13T11:39:47.939977"
   },
   {
     "id": "game_040_Switch",
@@ -827,7 +827,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727679"
+    "lastUpdated": "2026-06-13T11:39:47.939978"
   },
   {
     "id": "game_041_Switch",
@@ -837,7 +837,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727683"
+    "lastUpdated": "2026-06-13T11:39:47.939986"
   },
   {
     "id": "game_042_Switch",
@@ -847,7 +847,7 @@
     "currentPrice": 278.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727686"
+    "lastUpdated": "2026-06-13T11:39:47.939988"
   },
   {
     "id": "game_043_Switch",
@@ -857,7 +857,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727690"
+    "lastUpdated": "2026-06-13T11:39:47.939989"
   },
   {
     "id": "game_043_Steam",
@@ -867,7 +867,7 @@
     "currentPrice": 63.0,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727692"
+    "lastUpdated": "2026-06-13T11:39:47.939991"
   },
   {
     "id": "game_044_PSN",
@@ -877,7 +877,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727695"
+    "lastUpdated": "2026-06-13T11:39:47.939992"
   },
   {
     "id": "game_044_Switch",
@@ -887,7 +887,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727697"
+    "lastUpdated": "2026-06-13T11:39:47.939993"
   },
   {
     "id": "game_045_Steam",
@@ -897,7 +897,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727701"
+    "lastUpdated": "2026-06-13T11:39:47.939995"
   },
   {
     "id": "game_045_Switch",
@@ -907,7 +907,7 @@
     "currentPrice": 149.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727703"
+    "lastUpdated": "2026-06-13T11:39:47.939996"
   },
   {
     "id": "game_045_PSN",
@@ -917,7 +917,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727705"
+    "lastUpdated": "2026-06-13T11:39:47.939997"
   },
   {
     "id": "game_046_PSN",
@@ -927,7 +927,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727709"
+    "lastUpdated": "2026-06-13T11:39:47.939999"
   },
   {
     "id": "game_047_PSN",
@@ -937,7 +937,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727713"
+    "lastUpdated": "2026-06-13T11:39:47.940001"
   },
   {
     "id": "game_047_Switch",
@@ -947,7 +947,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727715"
+    "lastUpdated": "2026-06-13T11:39:47.940002"
   },
   {
     "id": "game_048_Switch",
@@ -957,7 +957,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727718"
+    "lastUpdated": "2026-06-13T11:39:47.940003"
   },
   {
     "id": "game_049_Steam",
@@ -967,7 +967,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727722"
+    "lastUpdated": "2026-06-13T11:39:47.940005"
   },
   {
     "id": "game_049_PSN",
@@ -977,7 +977,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727724"
+    "lastUpdated": "2026-06-13T11:39:47.940006"
   },
   {
     "id": "game_049_Switch",
@@ -987,7 +987,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727726"
+    "lastUpdated": "2026-06-13T11:39:47.940007"
   },
   {
     "id": "game_050_Steam",
@@ -997,7 +997,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727729"
+    "lastUpdated": "2026-06-13T11:39:47.940008"
   },
   {
     "id": "game_050_Switch",
@@ -1007,7 +1007,7 @@
     "currentPrice": 45.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727731"
+    "lastUpdated": "2026-06-13T11:39:47.940009"
   },
   {
     "id": "game_050_PSN",
@@ -1017,7 +1017,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727734"
+    "lastUpdated": "2026-06-13T11:39:47.940010"
   },
   {
     "id": "game_051_Switch",
@@ -1027,7 +1027,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727737"
+    "lastUpdated": "2026-06-13T11:39:47.940012"
   },
   {
     "id": "game_051_Steam",
@@ -1037,7 +1037,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727739"
+    "lastUpdated": "2026-06-13T11:39:47.940014"
   },
   {
     "id": "game_051_PSN",
@@ -1047,7 +1047,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727741"
+    "lastUpdated": "2026-06-13T11:39:47.940015"
   },
   {
     "id": "game_052_Steam",
@@ -1057,7 +1057,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727747"
+    "lastUpdated": "2026-06-13T11:39:47.940017"
   },
   {
     "id": "game_052_PSN",
@@ -1067,7 +1067,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727749"
+    "lastUpdated": "2026-06-13T11:39:47.940018"
   },
   {
     "id": "game_053_Switch",
@@ -1077,7 +1077,7 @@
     "currentPrice": 0,
     "discountPercentage": 50,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727756"
+    "lastUpdated": "2026-06-13T11:39:47.940020"
   },
   {
     "id": "game_054_PSN",
@@ -1087,7 +1087,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727759"
+    "lastUpdated": "2026-06-13T11:39:47.940022"
   },
   {
     "id": "game_054_Switch",
@@ -1097,7 +1097,7 @@
     "currentPrice": 40.8,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727762"
+    "lastUpdated": "2026-06-13T11:39:47.940023"
   },
   {
     "id": "game_054_Steam",
@@ -1107,7 +1107,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727766"
+    "lastUpdated": "2026-06-13T11:39:47.940024"
   },
   {
     "id": "game_055_PSN",
@@ -1117,7 +1117,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727769"
+    "lastUpdated": "2026-06-13T11:39:47.940025"
   },
   {
     "id": "game_055_Switch",
@@ -1127,7 +1127,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727771"
+    "lastUpdated": "2026-06-13T11:39:47.940026"
   },
   {
     "id": "game_055_Steam",
@@ -1137,7 +1137,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727773"
+    "lastUpdated": "2026-06-13T11:39:47.940027"
   },
   {
     "id": "game_056_Switch",
@@ -1147,7 +1147,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727777"
+    "lastUpdated": "2026-06-13T11:39:47.940029"
   },
   {
     "id": "game_056_PSN",
@@ -1157,7 +1157,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727778"
+    "lastUpdated": "2026-06-13T11:39:47.940030"
   },
   {
     "id": "game_056_Steam",
@@ -1167,7 +1167,7 @@
     "currentPrice": 102.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727781"
+    "lastUpdated": "2026-06-13T11:39:47.940031"
   },
   {
     "id": "game_057_PSN",
@@ -1177,7 +1177,7 @@
     "currentPrice": 119.2,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727784"
+    "lastUpdated": "2026-06-13T11:39:47.940033"
   },
   {
     "id": "game_058_PSN",
@@ -1187,7 +1187,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727787"
+    "lastUpdated": "2026-06-13T11:39:47.940034"
   },
   {
     "id": "game_058_Switch",
@@ -1197,7 +1197,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727789"
+    "lastUpdated": "2026-06-13T11:39:47.940035"
   },
   {
     "id": "game_059_PSN",
@@ -1207,7 +1207,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727793"
+    "lastUpdated": "2026-06-13T11:39:47.940037"
   },
   {
     "id": "game_059_Switch",
@@ -1217,7 +1217,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727795"
+    "lastUpdated": "2026-06-13T11:39:47.940037"
   },
   {
     "id": "game_059_Steam",
@@ -1227,7 +1227,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727796"
+    "lastUpdated": "2026-06-13T11:39:47.940038"
   },
   {
     "id": "game_060_PSN",
@@ -1237,7 +1237,7 @@
     "currentPrice": 72.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727800"
+    "lastUpdated": "2026-06-13T11:39:47.940040"
   },
   {
     "id": "game_060_Switch",
@@ -1247,7 +1247,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727802"
+    "lastUpdated": "2026-06-13T11:39:47.940041"
   },
   {
     "id": "game_060_Steam",
@@ -1257,7 +1257,7 @@
     "currentPrice": 45.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727804"
+    "lastUpdated": "2026-06-13T11:39:47.940042"
   },
   {
     "id": "game_061_Steam",
@@ -1267,7 +1267,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727808"
+    "lastUpdated": "2026-06-13T11:39:47.940044"
   },
   {
     "id": "game_062_Steam",
@@ -1277,7 +1277,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727811"
+    "lastUpdated": "2026-06-13T11:39:47.940045"
   },
   {
     "id": "game_062_PSN",
@@ -1287,7 +1287,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727814"
+    "lastUpdated": "2026-06-13T11:39:47.940046"
   },
   {
     "id": "game_062_Switch",
@@ -1297,7 +1297,7 @@
     "currentPrice": 36.0,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727816"
+    "lastUpdated": "2026-06-13T11:39:47.940047"
   },
   {
     "id": "game_063_Switch",
@@ -1307,7 +1307,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727820"
+    "lastUpdated": "2026-06-13T11:39:47.940049"
   },
   {
     "id": "game_063_Steam",
@@ -1317,7 +1317,7 @@
     "currentPrice": 24.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727824"
+    "lastUpdated": "2026-06-13T11:39:47.940050"
   },
   {
     "id": "game_064_Steam",
@@ -1327,7 +1327,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727828"
+    "lastUpdated": "2026-06-13T11:39:47.940052"
   },
   {
     "id": "game_064_PSN",
@@ -1337,7 +1337,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727830"
+    "lastUpdated": "2026-06-13T11:39:47.940054"
   },
   {
     "id": "game_064_Switch",
@@ -1347,7 +1347,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727832"
+    "lastUpdated": "2026-06-13T11:39:47.940055"
   },
   {
     "id": "game_065_Steam",
@@ -1357,7 +1357,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727835"
+    "lastUpdated": "2026-06-13T11:39:47.940056"
   },
   {
     "id": "game_066_Switch",
@@ -1367,7 +1367,7 @@
     "currentPrice": 63.0,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727839"
+    "lastUpdated": "2026-06-13T11:39:47.940058"
   },
   {
     "id": "game_066_PSN",
@@ -1377,7 +1377,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727843"
+    "lastUpdated": "2026-06-13T11:39:47.940059"
   },
   {
     "id": "game_066_Steam",
@@ -1387,7 +1387,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727845"
+    "lastUpdated": "2026-06-13T11:39:47.940060"
   },
   {
     "id": "game_067_Switch",
@@ -1397,7 +1397,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727849"
+    "lastUpdated": "2026-06-13T11:39:47.940062"
   },
   {
     "id": "game_068_PSN",
@@ -1407,7 +1407,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727852"
+    "lastUpdated": "2026-06-13T11:39:47.940064"
   },
   {
     "id": "game_069_PSN",
@@ -1417,7 +1417,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727855"
+    "lastUpdated": "2026-06-13T11:39:47.940065"
   },
   {
     "id": "game_069_Switch",
@@ -1427,7 +1427,7 @@
     "currentPrice": 160.8,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727858"
+    "lastUpdated": "2026-06-13T11:39:47.940066"
   },
   {
     "id": "game_070_Steam",
@@ -1437,7 +1437,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727861"
+    "lastUpdated": "2026-06-13T11:39:47.940068"
   },
   {
     "id": "game_070_PSN",
@@ -1447,7 +1447,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727862"
+    "lastUpdated": "2026-06-13T11:39:47.940069"
   },
   {
     "id": "game_070_Switch",
@@ -1457,7 +1457,7 @@
     "currentPrice": 0,
     "discountPercentage": 40,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727864"
+    "lastUpdated": "2026-06-13T11:39:47.940070"
   },
   {
     "id": "game_071_Steam",
@@ -1467,7 +1467,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727868"
+    "lastUpdated": "2026-06-13T11:39:47.940071"
   },
   {
     "id": "game_071_PSN",
@@ -1477,7 +1477,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727870"
+    "lastUpdated": "2026-06-13T11:39:47.940072"
   },
   {
     "id": "game_071_Switch",
@@ -1487,7 +1487,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727871"
+    "lastUpdated": "2026-06-13T11:39:47.940073"
   },
   {
     "id": "game_072_PSN",
@@ -1497,7 +1497,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727875"
+    "lastUpdated": "2026-06-13T11:39:47.940075"
   },
   {
     "id": "game_073_Steam",
@@ -1507,7 +1507,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727881"
+    "lastUpdated": "2026-06-13T11:39:47.940076"
   },
   {
     "id": "game_073_Switch",
@@ -1517,7 +1517,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727883"
+    "lastUpdated": "2026-06-13T11:39:47.940077"
   },
   {
     "id": "game_073_PSN",
@@ -1527,7 +1527,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727884"
+    "lastUpdated": "2026-06-13T11:39:47.940078"
   },
   {
     "id": "game_074_Switch",
@@ -1537,7 +1537,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727888"
+    "lastUpdated": "2026-06-13T11:39:47.940080"
   },
   {
     "id": "game_074_PSN",
@@ -1547,7 +1547,7 @@
     "currentPrice": 102.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727890"
+    "lastUpdated": "2026-06-13T11:39:47.940082"
   },
   {
     "id": "game_075_Steam",
@@ -1557,7 +1557,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727894"
+    "lastUpdated": "2026-06-13T11:39:47.940084"
   },
   {
     "id": "game_076_PSN",
@@ -1567,7 +1567,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727897"
+    "lastUpdated": "2026-06-13T11:39:47.940085"
   },
   {
     "id": "game_077_Switch",
@@ -1577,7 +1577,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727901"
+    "lastUpdated": "2026-06-13T11:39:47.940087"
   },
   {
     "id": "game_078_Steam",
@@ -1587,7 +1587,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727904"
+    "lastUpdated": "2026-06-13T11:39:47.940089"
   },
   {
     "id": "game_079_Steam",
@@ -1597,7 +1597,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727909"
+    "lastUpdated": "2026-06-13T11:39:47.940090"
   },
   {
     "id": "game_079_PSN",
@@ -1607,7 +1607,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727911"
+    "lastUpdated": "2026-06-13T11:39:47.940091"
   },
   {
     "id": "game_080_Switch",
@@ -1617,7 +1617,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727915"
+    "lastUpdated": "2026-06-13T11:39:47.940093"
   },
   {
     "id": "game_080_PSN",
@@ -1627,7 +1627,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727917"
+    "lastUpdated": "2026-06-13T11:39:47.940094"
   },
   {
     "id": "game_081_Switch",
@@ -1637,7 +1637,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727920"
+    "lastUpdated": "2026-06-13T11:39:47.940095"
   },
   {
     "id": "game_081_PSN",
@@ -1647,7 +1647,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727922"
+    "lastUpdated": "2026-06-13T11:39:47.940096"
   },
   {
     "id": "game_081_Steam",
@@ -1657,7 +1657,7 @@
     "currentPrice": 89.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727924"
+    "lastUpdated": "2026-06-13T11:39:47.940097"
   },
   {
     "id": "game_082_Steam",
@@ -1667,7 +1667,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727928"
+    "lastUpdated": "2026-06-13T11:39:47.940099"
   },
   {
     "id": "game_083_PSN",
@@ -1677,7 +1677,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727932"
+    "lastUpdated": "2026-06-13T11:39:47.940101"
   },
   {
     "id": "game_083_Steam",
@@ -1687,7 +1687,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727934"
+    "lastUpdated": "2026-06-13T11:39:47.940102"
   },
   {
     "id": "game_084_Steam",
@@ -1697,7 +1697,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727940"
+    "lastUpdated": "2026-06-13T11:39:47.940103"
   },
   {
     "id": "game_085_Steam",
@@ -1707,7 +1707,7 @@
     "currentPrice": 0,
     "discountPercentage": 30,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727952"
+    "lastUpdated": "2026-06-13T11:39:47.940105"
   },
   {
     "id": "game_085_Switch",
@@ -1717,7 +1717,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.727954"
+    "lastUpdated": "2026-06-13T11:39:47.940106"
   },
   {
     "id": "game_086_Switch",
@@ -1727,7 +1727,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727957"
+    "lastUpdated": "2026-06-13T11:39:47.940107"
   },
   {
     "id": "game_086_Steam",
@@ -1737,7 +1737,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727960"
+    "lastUpdated": "2026-06-13T11:39:47.940108"
   },
   {
     "id": "game_087_Steam",
@@ -1747,7 +1747,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727963"
+    "lastUpdated": "2026-06-13T11:39:47.940110"
   },
   {
     "id": "game_088_Switch",
@@ -1757,7 +1757,7 @@
     "currentPrice": 198.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727967"
+    "lastUpdated": "2026-06-13T11:39:47.940112"
   },
   {
     "id": "game_089_Switch",
@@ -1767,7 +1767,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727970"
+    "lastUpdated": "2026-06-13T11:39:47.940113"
   },
   {
     "id": "game_090_PSN",
@@ -1777,7 +1777,7 @@
     "currentPrice": 178.8,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727974"
+    "lastUpdated": "2026-06-13T11:39:47.940115"
   },
   {
     "id": "game_091_Switch",
@@ -1787,7 +1787,7 @@
     "currentPrice": 63.0,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727978"
+    "lastUpdated": "2026-06-13T11:39:47.940117"
   },
   {
     "id": "game_091_PSN",
@@ -1797,7 +1797,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727980"
+    "lastUpdated": "2026-06-13T11:39:47.940118"
   },
   {
     "id": "game_092_PSN",
@@ -1807,7 +1807,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727984"
+    "lastUpdated": "2026-06-13T11:39:47.940120"
   },
   {
     "id": "game_092_Switch",
@@ -1817,7 +1817,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727986"
+    "lastUpdated": "2026-06-13T11:39:47.940121"
   },
   {
     "id": "game_092_Steam",
@@ -1827,7 +1827,7 @@
     "currentPrice": 199.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727989"
+    "lastUpdated": "2026-06-13T11:39:47.940122"
   },
   {
     "id": "game_093_Switch",
@@ -1837,7 +1837,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727992"
+    "lastUpdated": "2026-06-13T11:39:47.940123"
   },
   {
     "id": "game_094_PSN",
@@ -1847,7 +1847,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727996"
+    "lastUpdated": "2026-06-13T11:39:47.940125"
   },
   {
     "id": "game_094_Switch",
@@ -1857,7 +1857,7 @@
     "currentPrice": 398.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.727997"
+    "lastUpdated": "2026-06-13T11:39:47.940127"
   },
   {
     "id": "game_095_PSN",
@@ -1867,7 +1867,7 @@
     "currentPrice": 54.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728002"
+    "lastUpdated": "2026-06-13T11:39:47.940129"
   },
   {
     "id": "game_095_Switch",
@@ -1877,7 +1877,7 @@
     "currentPrice": 72.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728004"
+    "lastUpdated": "2026-06-13T11:39:47.940130"
   },
   {
     "id": "game_095_Steam",
@@ -1887,7 +1887,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728006"
+    "lastUpdated": "2026-06-13T11:39:47.940131"
   },
   {
     "id": "game_096_Switch",
@@ -1897,7 +1897,7 @@
     "currentPrice": 54.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728012"
+    "lastUpdated": "2026-06-13T11:39:47.940132"
   },
   {
     "id": "game_096_Steam",
@@ -1907,7 +1907,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728013"
+    "lastUpdated": "2026-06-13T11:39:47.940133"
   },
   {
     "id": "game_096_PSN",
@@ -1917,7 +1917,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728015"
+    "lastUpdated": "2026-06-13T11:39:47.940134"
   },
   {
     "id": "game_097_Switch",
@@ -1927,7 +1927,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728019"
+    "lastUpdated": "2026-06-13T11:39:47.940136"
   },
   {
     "id": "game_097_Steam",
@@ -1937,7 +1937,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728021"
+    "lastUpdated": "2026-06-13T11:39:47.940137"
   },
   {
     "id": "game_097_PSN",
@@ -1947,7 +1947,7 @@
     "currentPrice": 54.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728023"
+    "lastUpdated": "2026-06-13T11:39:47.940138"
   },
   {
     "id": "game_098_PSN",
@@ -1957,7 +1957,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728026"
+    "lastUpdated": "2026-06-13T11:39:47.940139"
   },
   {
     "id": "game_098_Steam",
@@ -1967,7 +1967,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728028"
+    "lastUpdated": "2026-06-13T11:39:47.940140"
   },
   {
     "id": "game_099_PSN",
@@ -1977,7 +1977,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728032"
+    "lastUpdated": "2026-06-13T11:39:47.940142"
   },
   {
     "id": "game_099_Switch",
@@ -1987,7 +1987,7 @@
     "currentPrice": 34.0,
     "discountPercentage": 50,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728034"
+    "lastUpdated": "2026-06-13T11:39:47.940143"
   },
   {
     "id": "game_100_Switch",
@@ -1997,7 +1997,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728037"
+    "lastUpdated": "2026-06-13T11:39:47.940145"
   },
   {
     "id": "game_100_PSN",
@@ -2007,7 +2007,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728039"
+    "lastUpdated": "2026-06-13T11:39:47.940146"
   },
   {
     "id": "game_100_Steam",
@@ -2017,7 +2017,7 @@
     "currentPrice": 32.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728044"
+    "lastUpdated": "2026-06-13T11:39:47.940147"
   },
   {
     "id": "game_101_Switch",
@@ -2027,7 +2027,7 @@
     "currentPrice": 27.2,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728047"
+    "lastUpdated": "2026-06-13T11:39:47.940149"
   },
   {
     "id": "game_102_Steam",
@@ -2037,7 +2037,7 @@
     "currentPrice": 89.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728051"
+    "lastUpdated": "2026-06-13T11:39:47.940151"
   },
   {
     "id": "game_103_Steam",
@@ -2047,7 +2047,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728054"
+    "lastUpdated": "2026-06-13T11:39:47.940152"
   },
   {
     "id": "game_104_Steam",
@@ -2057,7 +2057,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728058"
+    "lastUpdated": "2026-06-13T11:39:47.940154"
   },
   {
     "id": "game_105_Steam",
@@ -2067,7 +2067,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728061"
+    "lastUpdated": "2026-06-13T11:39:47.940156"
   },
   {
     "id": "game_105_PSN",
@@ -2077,7 +2077,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728063"
+    "lastUpdated": "2026-06-13T11:39:47.940156"
   },
   {
     "id": "game_105_Switch",
@@ -2087,7 +2087,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728065"
+    "lastUpdated": "2026-06-13T11:39:47.940157"
   },
   {
     "id": "game_106_Steam",
@@ -2097,7 +2097,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728072"
+    "lastUpdated": "2026-06-13T11:39:47.940159"
   },
   {
     "id": "game_107_Switch",
@@ -2107,7 +2107,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728076"
+    "lastUpdated": "2026-06-13T11:39:47.940161"
   },
   {
     "id": "game_108_Steam",
@@ -2117,7 +2117,7 @@
     "currentPrice": 0,
     "discountPercentage": 0,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.728079"
+    "lastUpdated": "2026-06-13T11:39:47.940163"
   },
   {
     "id": "game_109_PSN",
@@ -2127,7 +2127,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728082"
+    "lastUpdated": "2026-06-13T11:39:47.940165"
   },
   {
     "id": "game_109_Steam",
@@ -2137,7 +2137,7 @@
     "currentPrice": 28.0,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728085"
+    "lastUpdated": "2026-06-13T11:39:47.940166"
   },
   {
     "id": "game_109_Switch",
@@ -2147,7 +2147,7 @@
     "currentPrice": 32.0,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728087"
+    "lastUpdated": "2026-06-13T11:39:47.940167"
   },
   {
     "id": "game_110_Steam",
@@ -2157,7 +2157,7 @@
     "currentPrice": 27.2,
     "discountPercentage": 60,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728091"
+    "lastUpdated": "2026-06-13T11:39:47.940169"
   },
   {
     "id": "game_110_Switch",
@@ -2167,7 +2167,7 @@
     "currentPrice": 54.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728093"
+    "lastUpdated": "2026-06-13T11:39:47.940170"
   },
   {
     "id": "game_110_PSN",
@@ -2177,7 +2177,7 @@
     "currentPrice": 68.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728095"
+    "lastUpdated": "2026-06-13T11:39:47.940171"
   },
   {
     "id": "game_111_Steam",
@@ -2187,7 +2187,7 @@
     "currentPrice": 208.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728099"
+    "lastUpdated": "2026-06-13T11:39:47.940173"
   },
   {
     "id": "game_111_Switch",
@@ -2197,7 +2197,7 @@
     "currentPrice": 178.8,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728101"
+    "lastUpdated": "2026-06-13T11:39:47.940174"
   },
   {
     "id": "game_111_PSN",
@@ -2207,7 +2207,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728103"
+    "lastUpdated": "2026-06-13T11:39:47.940175"
   },
   {
     "id": "game_112_PSN",
@@ -2217,7 +2217,7 @@
     "currentPrice": 208.6,
     "discountPercentage": 30,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728107"
+    "lastUpdated": "2026-06-13T11:39:47.940176"
   },
   {
     "id": "game_112_Steam",
@@ -2227,7 +2227,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728109"
+    "lastUpdated": "2026-06-13T11:39:47.940177"
   },
   {
     "id": "game_113_Steam",
@@ -2237,7 +2237,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728112"
+    "lastUpdated": "2026-06-13T11:39:47.940179"
   },
   {
     "id": "game_113_Switch",
@@ -2247,7 +2247,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728114"
+    "lastUpdated": "2026-06-13T11:39:47.940180"
   },
   {
     "id": "game_113_PSN",
@@ -2257,7 +2257,7 @@
     "currentPrice": 90.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728116"
+    "lastUpdated": "2026-06-13T11:39:47.940181"
   },
   {
     "id": "game_114_Switch",
@@ -2267,7 +2267,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728120"
+    "lastUpdated": "2026-06-13T11:39:47.940183"
   },
   {
     "id": "game_115_PSN",
@@ -2277,7 +2277,7 @@
     "currentPrice": 24.0,
     "discountPercentage": 40,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728124"
+    "lastUpdated": "2026-06-13T11:39:47.940184"
   },
   {
     "id": "game_115_Steam",
@@ -2287,7 +2287,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728127"
+    "lastUpdated": "2026-06-13T11:39:47.940185"
   },
   {
     "id": "game_115_Switch",
@@ -2297,7 +2297,7 @@
     "currentPrice": 40.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728129"
+    "lastUpdated": "2026-06-13T11:39:47.940186"
   },
   {
     "id": "game_116_PSN",
@@ -2307,7 +2307,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728133"
+    "lastUpdated": "2026-06-13T11:39:47.940188"
   },
   {
     "id": "game_117_PSN",
@@ -2317,7 +2317,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728136"
+    "lastUpdated": "2026-06-13T11:39:47.940189"
   },
   {
     "id": "game_117_Steam",
@@ -2327,7 +2327,7 @@
     "currentPrice": 298.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728138"
+    "lastUpdated": "2026-06-13T11:39:47.940190"
   },
   {
     "id": "game_118_PSN",
@@ -2337,7 +2337,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728144"
+    "lastUpdated": "2026-06-13T11:39:47.940192"
   },
   {
     "id": "game_118_Switch",
@@ -2347,7 +2347,7 @@
     "currentPrice": 128.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728146"
+    "lastUpdated": "2026-06-13T11:39:47.940193"
   },
   {
     "id": "game_118_Steam",
@@ -2357,7 +2357,7 @@
     "currentPrice": 102.4,
     "discountPercentage": 20,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728148"
+    "lastUpdated": "2026-06-13T11:39:47.940194"
   },
   {
     "id": "game_119_Switch",
@@ -2367,7 +2367,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728152"
+    "lastUpdated": "2026-06-13T11:39:47.940196"
   },
   {
     "id": "game_119_PSN",
@@ -2377,7 +2377,7 @@
     "currentPrice": 268.0,
     "discountPercentage": 0,
     "isFree": false,
-    "lastUpdated": "2026-06-13T10:14:14.728154"
+    "lastUpdated": "2026-06-13T11:39:47.940197"
   },
   {
     "id": "game_120_PSN",
@@ -2387,6 +2387,6 @@
     "currentPrice": 0,
     "discountPercentage": 60,
     "isFree": true,
-    "lastUpdated": "2026-06-13T10:14:14.728158"
+    "lastUpdated": "2026-06-13T11:39:47.940198"
   }
 ]

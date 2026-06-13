@@ -26,7 +26,8 @@ struct ScoreComponents {
 /// 评分计算器
 class Scorer {
     
-    private let weights: RecommendationWeights
+    // 对外只读，供 CategoryRecommender 等读取权重配置
+    private(set) var weights: RecommendationWeights
     
     init(weights: RecommendationWeights = .default) {
         self.weights = weights
@@ -143,8 +144,8 @@ class Scorer {
         )
         
         let components = ScoreComponents(
-            similarity: similarity,
             price: priceFriendliness,
+            similarity: similarity,
             diversity: diversity
         )
         

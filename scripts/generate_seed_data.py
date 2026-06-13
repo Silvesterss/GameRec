@@ -19,7 +19,7 @@ from typing import List, Dict, Any
 
 # ==================== 配置区 ====================
 
-OUTPUT_DIR = "../GameRec/Data/SeedData"
+OUTPUT_DIR = "../GameRec/Resources/Data/SeedData"
 NUM_GAMES = 120  # 生成的游戏数量
 NUM_USER_PLAYED = 35  # 用户已玩的游戏数量
 
@@ -35,6 +35,34 @@ CATEGORIES = [
     "生存", "恐怖", "潜行", "音乐节奏", "Galgame",
     "卡牌", "独立游戏", "开放世界", "魂系"
 ]
+
+# 合法类别集合（必须与 GameCategory.swift 的 rawValue 完全一致）
+# 用于过滤掉枚举中不存在的类别，避免 Swift 解码失败
+VALID_CATEGORIES = set(CATEGORIES)
+
+# 非法类别 → 合法类别的映射（脚本里曾用到枚举外的值）
+CATEGORY_FALLBACK = {
+    "回合制": "策略",
+    "即时战略": "策略",
+    "科幻": "射击",
+}
+
+
+def sanitize_categories(categories):
+    """把类别规整为枚举内的合法值：能映射的映射，不能映射的丢弃，去重保序，空则兜底为独立游戏"""
+    result = []
+    for c in categories:
+        if c in VALID_CATEGORIES:
+            mapped = c
+        elif c in CATEGORY_FALLBACK:
+            mapped = CATEGORY_FALLBACK[c]
+        else:
+            continue
+        if mapped not in result:
+            result.append(mapped)
+    if not result:
+        result.append("独立游戏")
+    return result
 
 # ==================== 游戏数据库 ====================
 
@@ -287,7 +315,7 @@ def generate_games() -> List[Dict[str, Any]]:
         game = {
             "id": generate_game_id(i + 1),
             "title": game_data["title"],
-            "categories": game_data["categories"],
+            "categories": sanitize_categories(game_data["categories"]),
             "tags": game_data["tags"],
             "description": game_data.get("description", f"{game_data['title']}的游戏描述"),
             "releaseYear": game_data.get("year", random.randint(2015, 2024)),
@@ -307,7 +335,7 @@ def generate_games() -> List[Dict[str, Any]]:
         game = {
             "id": generate_game_id(start_index + i),
             "title": f"{template['title']} {i // len(FICTIONAL_GAMES) + 1}" if i >= len(FICTIONAL_GAMES) else template["title"],
-            "categories": template["categories"],
+            "categories": sanitize_categories(template["categories"]),
             "tags": template.get("tags", ["探索", "冒险"]),
             "description": f"这是一款{template['categories'][0]}类型的游戏",
             "releaseYear": random.randint(2015, 2024),

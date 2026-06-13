@@ -8,7 +8,8 @@
 import Foundation
 
 /// 刷新策略管理器
-class RefreshStrategy {
+// 标记为 final：使 Codable 的 init(from:) 可在扩展中自动合成（非 final 类无法在扩展里合成 required 初始化器）
+final class RefreshStrategy {
     
     // MARK: - 种子管理
     
