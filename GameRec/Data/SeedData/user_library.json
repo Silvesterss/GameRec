@@ -1,0 +1,352 @@
+[
+  {
+    "id": "game_076_PSN",
+    "gameId": "game_076",
+    "platform": "PSN",
+    "hoursPlayed": 123.0,
+    "progressPercentage": 80,
+    "achievementsUnlocked": 14,
+    "totalAchievements": 22,
+    "lastPlayedDate": "2026-05-03T10:14:14.730914"
+  },
+  {
+    "id": "game_003_Steam",
+    "gameId": "game_003",
+    "platform": "Steam",
+    "hoursPlayed": 51.9,
+    "progressPercentage": 61,
+    "achievementsUnlocked": 39,
+    "totalAchievements": 75,
+    "lastPlayedDate": "2026-06-12T10:14:14.730932"
+  },
+  {
+    "id": "game_098_Steam",
+    "gameId": "game_098",
+    "platform": "Steam",
+    "hoursPlayed": 64.9,
+    "progressPercentage": 34,
+    "achievementsUnlocked": 14,
+    "totalAchievements": 53,
+    "lastPlayedDate": "2026-04-10T10:14:14.730940"
+  },
+  {
+    "id": "game_087_Steam",
+    "gameId": "game_087",
+    "platform": "Steam",
+    "hoursPlayed": 115.2,
+    "progressPercentage": 36,
+    "achievementsUnlocked": 11,
+    "totalAchievements": 37,
+    "lastPlayedDate": "2026-05-07T10:14:14.730949"
+  },
+  {
+    "id": "game_106_Steam",
+    "gameId": "game_106",
+    "platform": "Steam",
+    "hoursPlayed": 132.7,
+    "progressPercentage": 72,
+    "achievementsUnlocked": 13,
+    "totalAchievements": 27,
+    "lastPlayedDate": "2026-03-24T10:14:14.730954"
+  },
+  {
+    "id": "game_035_Switch",
+    "gameId": "game_035",
+    "platform": "Switch",
+    "hoursPlayed": 107.9,
+    "progressPercentage": 49,
+    "achievementsUnlocked": 18,
+    "totalAchievements": 55,
+    "lastPlayedDate": "2026-04-21T10:14:14.730959"
+  },
+  {
+    "id": "game_074_Switch",
+    "gameId": "game_074",
+    "platform": "Switch",
+    "hoursPlayed": 37.6,
+    "progressPercentage": 24,
+    "achievementsUnlocked": 11,
+    "totalAchievements": 49,
+    "lastPlayedDate": "2026-03-22T10:14:14.730963"
+  },
+  {
+    "id": "game_006_PSN",
+    "gameId": "game_006",
+    "platform": "PSN",
+    "hoursPlayed": 77.3,
+    "progressPercentage": 47,
+    "achievementsUnlocked": 22,
+    "totalAchievements": 52,
+    "lastPlayedDate": "2026-04-20T10:14:14.730967"
+  },
+  {
+    "id": "game_118_Switch",
+    "gameId": "game_118",
+    "platform": "Switch",
+    "hoursPlayed": 147.1,
+    "progressPercentage": 41,
+    "achievementsUnlocked": 17,
+    "totalAchievements": 49,
+    "lastPlayedDate": "2026-04-24T10:14:14.730971"
+  },
+  {
+    "id": "game_097_Switch",
+    "gameId": "game_097",
+    "platform": "Switch",
+    "hoursPlayed": 138.7,
+    "progressPercentage": 75,
+    "achievementsUnlocked": 48,
+    "totalAchievements": 67,
+    "lastPlayedDate": "2026-06-04T10:14:14.730976"
+  },
+  {
+    "id": "game_023_Steam",
+    "gameId": "game_023",
+    "platform": "Steam",
+    "hoursPlayed": 117.0,
+    "progressPercentage": 63,
+    "achievementsUnlocked": 25,
+    "totalAchievements": 41,
+    "lastPlayedDate": "2026-04-09T10:14:14.730980"
+  },
+  {
+    "id": "game_061_Steam",
+    "gameId": "game_061",
+    "platform": "Steam",
+    "hoursPlayed": 124.0,
+    "progressPercentage": 46,
+    "achievementsUnlocked": 23,
+    "totalAchievements": 66,
+    "lastPlayedDate": "2026-03-29T10:14:14.730984"
+  },
+  {
+    "id": "game_067_Switch",
+    "gameId": "game_067",
+    "platform": "Switch",
+    "hoursPlayed": 130.5,
+    "progressPercentage": 67,
+    "achievementsUnlocked": 30,
+    "totalAchievements": 54,
+    "lastPlayedDate": "2026-05-01T10:14:14.730988"
+  },
+  {
+    "id": "game_084_Steam",
+    "gameId": "game_084",
+    "platform": "Steam",
+    "hoursPlayed": 71.0,
+    "progressPercentage": 51,
+    "achievementsUnlocked": 28,
+    "totalAchievements": 75,
+    "lastPlayedDate": "2026-03-15T10:14:14.730993"
+  },
+  {
+    "id": "game_057_PSN",
+    "gameId": "game_057",
+    "platform": "PSN",
+    "hoursPlayed": 87.9,
+    "progressPercentage": 39,
+    "achievementsUnlocked": 26,
+    "totalAchievements": 74,
+    "lastPlayedDate": "2026-06-07T10:14:14.730997"
+  },
+  {
+    "id": "game_036_PSN",
+    "gameId": "game_036",
+    "platform": "PSN",
+    "hoursPlayed": 113.0,
+    "progressPercentage": 100,
+    "achievementsUnlocked": 73,
+    "totalAchievements": 78,
+    "lastPlayedDate": "2026-04-24T10:14:14.731000"
+  },
+  {
+    "id": "game_024_PSN",
+    "gameId": "game_024",
+    "platform": "PSN",
+    "hoursPlayed": 76.8,
+    "progressPercentage": 14,
+    "achievementsUnlocked": 3,
+    "totalAchievements": 28,
+    "lastPlayedDate": "2026-03-29T10:14:14.731005"
+  },
+  {
+    "id": "game_075_Steam",
+    "gameId": "game_075",
+    "platform": "Steam",
+    "hoursPlayed": 131.1,
+    "progressPercentage": 66,
+    "achievementsUnlocked": 14,
+    "totalAchievements": 26,
+    "lastPlayedDate": "2026-04-15T10:14:14.731009"
+  },
+  {
+    "id": "game_056_Switch",
+    "gameId": "game_056",
+    "platform": "Switch",
+    "hoursPlayed": 109.8,
+    "progressPercentage": 62,
+    "achievementsUnlocked": 41,
+    "totalAchievements": 75,
+    "lastPlayedDate": "2026-05-24T10:14:14.731012"
+  },
+  {
+    "id": "game_082_Steam",
+    "gameId": "game_082",
+    "platform": "Steam",
+    "hoursPlayed": 73.1,
+    "progressPercentage": 43,
+    "achievementsUnlocked": 15,
+    "totalAchievements": 41,
+    "lastPlayedDate": "2026-04-23T10:14:14.731016"
+  },
+  {
+    "id": "game_063_Switch",
+    "gameId": "game_063",
+    "platform": "Switch",
+    "hoursPlayed": 128.5,
+    "progressPercentage": 96,
+    "achievementsUnlocked": 61,
+    "totalAchievements": 74,
+    "lastPlayedDate": "2026-05-03T10:14:14.731020"
+  },
+  {
+    "id": "game_012_Steam",
+    "gameId": "game_012",
+    "platform": "Steam",
+    "hoursPlayed": 131.5,
+    "progressPercentage": 14,
+    "achievementsUnlocked": 5,
+    "totalAchievements": 59,
+    "lastPlayedDate": "2026-03-24T10:14:14.731024"
+  },
+  {
+    "id": "game_109_Switch",
+    "gameId": "game_109",
+    "platform": "Switch",
+    "hoursPlayed": 138.5,
+    "progressPercentage": 39,
+    "achievementsUnlocked": 18,
+    "totalAchievements": 67,
+    "lastPlayedDate": "2026-05-31T10:14:14.731028"
+  },
+  {
+    "id": "game_045_PSN",
+    "gameId": "game_045",
+    "platform": "PSN",
+    "hoursPlayed": 107.1,
+    "progressPercentage": 22,
+    "achievementsUnlocked": 7,
+    "totalAchievements": 48,
+    "lastPlayedDate": "2026-05-05T10:14:14.731032"
+  },
+  {
+    "id": "game_053_Switch",
+    "gameId": "game_053",
+    "platform": "Switch",
+    "hoursPlayed": 11.7,
+    "progressPercentage": 17,
+    "achievementsUnlocked": 5,
+    "totalAchievements": 38,
+    "lastPlayedDate": "2026-04-18T10:14:14.731036"
+  },
+  {
+    "id": "game_043_Switch",
+    "gameId": "game_043",
+    "platform": "Switch",
+    "hoursPlayed": 40.4,
+    "progressPercentage": 62,
+    "achievementsUnlocked": 31,
+    "totalAchievements": 56,
+    "lastPlayedDate": "2026-05-20T10:14:14.731040"
+  },
+  {
+    "id": "game_042_Switch",
+    "gameId": "game_042",
+    "platform": "Switch",
+    "hoursPlayed": 30.4,
+    "progressPercentage": 88,
+    "achievementsUnlocked": 53,
+    "totalAchievements": 75,
+    "lastPlayedDate": "2026-03-17T10:14:14.731045"
+  },
+  {
+    "id": "game_086_Switch",
+    "gameId": "game_086",
+    "platform": "Switch",
+    "hoursPlayed": 77.2,
+    "progressPercentage": 84,
+    "achievementsUnlocked": 18,
+    "totalAchievements": 29,
+    "lastPlayedDate": "2026-03-23T10:14:14.731048"
+  },
+  {
+    "id": "game_014_Steam",
+    "gameId": "game_014",
+    "platform": "Steam",
+    "hoursPlayed": 71.6,
+    "progressPercentage": 95,
+    "achievementsUnlocked": 18,
+    "totalAchievements": 20,
+    "lastPlayedDate": "2026-04-14T10:14:14.731052"
+  },
+  {
+    "id": "game_021_Steam",
+    "gameId": "game_021",
+    "platform": "Steam",
+    "hoursPlayed": 103.3,
+    "progressPercentage": 30,
+    "achievementsUnlocked": 5,
+    "totalAchievements": 24,
+    "lastPlayedDate": "2026-04-29T10:14:14.731056"
+  },
+  {
+    "id": "game_095_Steam",
+    "gameId": "game_095",
+    "platform": "Steam",
+    "hoursPlayed": 48.4,
+    "progressPercentage": 64,
+    "achievementsUnlocked": 31,
+    "totalAchievements": 64,
+    "lastPlayedDate": "2026-05-05T10:14:14.731060"
+  },
+  {
+    "id": "game_096_Switch",
+    "gameId": "game_096",
+    "platform": "Switch",
+    "hoursPlayed": 149.9,
+    "progressPercentage": 71,
+    "achievementsUnlocked": 14,
+    "totalAchievements": 26,
+    "lastPlayedDate": "2026-03-31T10:14:14.731064"
+  },
+  {
+    "id": "game_064_PSN",
+    "gameId": "game_064",
+    "platform": "PSN",
+    "hoursPlayed": 88.3,
+    "progressPercentage": 99,
+    "achievementsUnlocked": 26,
+    "totalAchievements": 38,
+    "lastPlayedDate": "2026-03-20T10:14:14.731068"
+  },
+  {
+    "id": "game_037_Switch",
+    "gameId": "game_037",
+    "platform": "Switch",
+    "hoursPlayed": 44.8,
+    "progressPercentage": 82,
+    "achievementsUnlocked": 55,
+    "totalAchievements": 75,
+    "lastPlayedDate": "2026-06-06T10:14:14.731072"
+  },
+  {
+    "id": "game_085_Switch",
+    "gameId": "game_085",
+    "platform": "Switch",
+    "hoursPlayed": 125.8,
+    "progressPercentage": 46,
+    "achievementsUnlocked": 29,
+    "totalAchievements": 69,
+    "lastPlayedDate": "2026-03-27T10:14:14.731076"
+  }
+]

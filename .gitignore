@@ -1,0 +1,59 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+# User-specific
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.podfile.lock
+
+# Carthage
+Carthage/
+
+# macOS
+.DS_Store
+
+# Python (scripts目录)
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*~
+.cache/
+
+# Windows
+Thumbs.db
+Desktop.ini

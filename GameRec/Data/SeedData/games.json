@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "game_001",
+    "title": "艾尔登法环",
+    "categories": [
+      "动作RPG",
+      "开放世界",
+      "魂系"
+    ],
+    "tags": [
+      "开放世界",
+      "魂系",
+      "困难",
+      "探索",
+      "BOSS战",
+      "FromSoftware"
+    ],
+    "description": "FromSoftware与《冰与火之歌》作者合作的开放世界魂系游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_002",
+    "title": "只狼：影逝二度",
+    "categories": [
+      "动作",
+      "魂系"
+    ],
+    "tags": [
+      "魂系",
+      "困难",
+      "日本战国",
+      "弹反",
+      "FromSoftware"
+    ],
+    "description": "FromSoftware的战国主题硬核动作游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_003",
+    "title": "黑暗之魂3",
+    "categories": [
+      "动作RPG",
+      "魂系"
+    ],
+    "tags": [
+      "魂系",
+      "困难",
+      "黑暗奇幻",
+      "BOSS战",
+      "FromSoftware"
+    ],
+    "description": "魂系列的集大成之作",
+    "releaseYear": 2016,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_004",
+    "title": "女神异闻录5 皇家版",
+    "categories": [
+      "RPG",
+      "Galgame"
+    ],
+    "tags": [
+      "回合制",
+      "剧情向",
+      "学园",
+      "日式RPG",
+      "音乐优秀"
+    ],
+    "description": "ATLUS经典JRPG系列的集大成之作",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_005",
+    "title": "最终幻想7 重制版",
+    "categories": [
+      "动作RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "画面优秀",
+      "日式RPG",
+      "经典重制"
+    ],
+    "description": "经典RPG的现代化重制",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_006",
+    "title": "尼尔：机械纪元",
+    "categories": [
+      "动作RPG"
+    ],
+    "tags": [
+      "剧情神",
+      "音乐优秀",
+      "横尾太郎",
+      "哲学",
+      "多周目"
+    ],
+    "description": "横尾太郎的哲学动作RPG",
+    "releaseYear": 2017,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_007",
+    "title": "巫师3：狂猎",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "开放世界",
+      "剧情向",
+      "选择分支",
+      "中世纪奇幻"
+    ],
+    "description": "史诗级开放世界RPG",
+    "releaseYear": 2015,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_008",
+    "title": "哈迪斯",
+    "categories": [
+      "Roguelite",
+      "动作"
+    ],
+    "tags": [
+      "Roguelite",
+      "希腊神话",
+      "剧情向",
+      "重复可玩性高"
+    ],
+    "description": "SuperGiant的Roguelite神作",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_009",
+    "title": "死亡细胞",
+    "categories": [
+      "Roguelite",
+      "银河恶魔城"
+    ],
+    "tags": [
+      "Roguelite",
+      "横版",
+      "快节奏",
+      "高难度"
+    ],
+    "description": "类银河恶魔城Roguelite",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_010",
+    "title": "以撒的结合：忏悔",
+    "categories": [
+      "Roguelike"
+    ],
+    "tags": [
+      "Roguelike",
+      "暗黑",
+      "重复可玩性高",
+      "地牢探索"
+    ],
+    "description": "经典Roguelike代表作",
+    "releaseYear": 2021,
+    "platforms": [
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_011",
+    "title": "空洞骑士",
+    "categories": [
+      "银河恶魔城",
+      "独立游戏"
+    ],
+    "tags": [
+      "银河恶魔城",
+      "横版",
+      "探索",
+      "美术优秀",
+      "BOSS战"
+    ],
+    "description": "独立游戏的银河恶魔城巅峰之作",
+    "releaseYear": 2017,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_012",
+    "title": "奥日与黑暗森林",
+    "categories": [
+      "银河恶魔城",
+      "平台跳跃"
+    ],
+    "tags": [
+      "银河恶魔城",
+      "画面优秀",
+      "音乐优秀",
+      "解谜"
+    ],
+    "description": "画面精美的银河恶魔城",
+    "releaseYear": 2015,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_013",
+    "title": "DOOM 永恒",
+    "categories": [
+      "第一人称射击",
+      "动作"
+    ],
+    "tags": [
+      "快节奏",
+      "爽快",
+      "恶魔",
+      "重金属"
+    ],
+    "description": "极速射击体验",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_014",
+    "title": "无主之地3",
+    "categories": [
+      "第一人称射击",
+      "RPG"
+    ],
+    "tags": [
+      "刷装备",
+      "合作",
+      "幽默",
+      "开放世界"
+    ],
+    "description": "刷刷刷射击游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_015",
+    "title": "生化危机2 重制版",
+    "categories": [
+      "恐怖",
+      "第三人称射击"
+    ],
+    "tags": [
+      "恐怖",
+      "生存",
+      "经典重制",
+      "僵尸"
+    ],
+    "description": "恐怖游戏经典重制",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_016",
+    "title": "寂静岭2",
+    "categories": [
+      "恐怖",
+      "冒险"
+    ],
+    "tags": [
+      "恐怖",
+      "心理",
+      "剧情神",
+      "经典"
+    ],
+    "description": "心理恐怖巅峰之作",
+    "releaseYear": 2001,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_017",
+    "title": "星露谷物语",
+    "categories": [
+      "模拟",
+      "独立游戏"
+    ],
+    "tags": [
+      "农场",
+      "养成",
+      "休闲",
+      "治愈"
+    ],
+    "description": "治愈系农场模拟",
+    "releaseYear": 2016,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_018",
+    "title": "泰拉瑞亚",
+    "categories": [
+      "沙盒",
+      "独立游戏"
+    ],
+    "tags": [
+      "沙盒",
+      "建造",
+      "探索",
+      "BOSS战"
+    ],
+    "description": "2D沙盒探索",
+    "releaseYear": 2011,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_019",
+    "title": "命运石之门",
+    "categories": [
+      "Galgame",
+      "冒险"
+    ],
+    "tags": [
+      "剧情神",
+      "时间旅行",
+      "科幻",
+      "视觉小说"
+    ],
+    "description": "科幻题材神作视觉小说",
+    "releaseYear": 2009,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_020",
+    "title": "白色相簿2",
+    "categories": [
+      "Galgame"
+    ],
+    "tags": [
+      "剧情向",
+      "恋爱",
+      "音乐",
+      "催泪"
+    ],
+    "description": "经典恋爱AVG",
+    "releaseYear": 2010,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_021",
+    "title": "文明6",
+    "categories": [
+      "策略",
+      "回合制"
+    ],
+    "tags": [
+      "4X",
+      "回合制",
+      "历史",
+      "策略"
+    ],
+    "description": "经典回合制策略",
+    "releaseYear": 2016,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_022",
+    "title": "全面战争：三国",
+    "categories": [
+      "策略",
+      "即时战略"
+    ],
+    "tags": [
+      "即时战略",
+      "历史",
+      "三国",
+      "战争"
+    ],
+    "description": "三国题材即时战略",
+    "releaseYear": 2019,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_023",
+    "title": "幻想编年史",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_024",
+    "title": "暗影行者",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_025",
+    "title": "星际征途",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_026",
+    "title": "迷雾之森",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_027",
+    "title": "赛博都市",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_028",
+    "title": "机械纪元2077",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_029",
+    "title": "龙之遗产",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_030",
+    "title": "地下城传说",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_031",
+    "title": "光影旅者",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_032",
+    "title": "魔法学院",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_033",
+    "title": "幻想编年史 2",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_034",
+    "title": "暗影行者 2",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_035",
+    "title": "星际征途 2",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_036",
+    "title": "迷雾之森 2",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Switch",
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_037",
+    "title": "赛博都市 2",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_038",
+    "title": "机械纪元2077 2",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_039",
+    "title": "龙之遗产 2",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_040",
+    "title": "地下城传说 2",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_041",
+    "title": "光影旅者 2",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_042",
+    "title": "魔法学院 2",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_043",
+    "title": "幻想编年史 3",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_044",
+    "title": "暗影行者 3",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_045",
+    "title": "星际征途 3",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_046",
+    "title": "迷雾之森 3",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_047",
+    "title": "赛博都市 3",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_048",
+    "title": "机械纪元2077 3",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_049",
+    "title": "龙之遗产 3",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_050",
+    "title": "地下城传说 3",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_051",
+    "title": "光影旅者 3",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch",
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_052",
+    "title": "魔法学院 3",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_053",
+    "title": "幻想编年史 4",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_054",
+    "title": "暗影行者 4",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_055",
+    "title": "星际征途 4",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_056",
+    "title": "迷雾之森 4",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "Switch",
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_057",
+    "title": "赛博都市 4",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_058",
+    "title": "机械纪元2077 4",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_059",
+    "title": "龙之遗产 4",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_060",
+    "title": "地下城传说 4",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_061",
+    "title": "光影旅者 4",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_062",
+    "title": "魔法学院 4",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_063",
+    "title": "幻想编年史 5",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_064",
+    "title": "暗影行者 5",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_065",
+    "title": "星际征途 5",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_066",
+    "title": "迷雾之森 5",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Switch",
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_067",
+    "title": "赛博都市 5",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_068",
+    "title": "机械纪元2077 5",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_069",
+    "title": "龙之遗产 5",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_070",
+    "title": "地下城传说 5",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_071",
+    "title": "光影旅者 5",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_072",
+    "title": "魔法学院 5",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_073",
+    "title": "幻想编年史 6",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_074",
+    "title": "暗影行者 6",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_075",
+    "title": "星际征途 6",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_076",
+    "title": "迷雾之森 6",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_077",
+    "title": "赛博都市 6",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_078",
+    "title": "机械纪元2077 6",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_079",
+    "title": "龙之遗产 6",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_080",
+    "title": "地下城传说 6",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_081",
+    "title": "光影旅者 6",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Switch",
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_082",
+    "title": "魔法学院 6",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_083",
+    "title": "幻想编年史 7",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_084",
+    "title": "暗影行者 7",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_085",
+    "title": "星际征途 7",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_086",
+    "title": "迷雾之森 7",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_087",
+    "title": "赛博都市 7",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_088",
+    "title": "机械纪元2077 7",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_089",
+    "title": "龙之遗产 7",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_090",
+    "title": "地下城传说 7",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2020,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_091",
+    "title": "光影旅者 7",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_092",
+    "title": "魔法学院 7",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_093",
+    "title": "幻想编年史 8",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_094",
+    "title": "暗影行者 8",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_095",
+    "title": "星际征途 8",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_096",
+    "title": "迷雾之森 8",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2024,
+    "platforms": [
+      "Switch",
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_097",
+    "title": "赛博都市 8",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "Switch",
+      "Steam",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_098",
+    "title": "机械纪元2077 8",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_099",
+    "title": "龙之遗产 8",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_100",
+    "title": "地下城传说 8",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2022,
+    "platforms": [
+      "Switch",
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_101",
+    "title": "光影旅者 8",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_102",
+    "title": "魔法学院 8",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_103",
+    "title": "幻想编年史 9",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_104",
+    "title": "暗影行者 9",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_105",
+    "title": "星际征途 9",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam",
+      "PSN",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_106",
+    "title": "迷雾之森 9",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_107",
+    "title": "赛博都市 9",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_108",
+    "title": "机械纪元2077 9",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_109",
+    "title": "龙之遗产 9",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_110",
+    "title": "地下城传说 9",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_111",
+    "title": "光影旅者 9",
+    "categories": [
+      "冒险",
+      "独立游戏"
+    ],
+    "tags": [
+      "艺术",
+      "解谜",
+      "唯美"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_112",
+    "title": "魔法学院 9",
+    "categories": [
+      "RPG",
+      "模拟"
+    ],
+    "tags": [
+      "魔法",
+      "学园",
+      "养成"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2015,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_113",
+    "title": "幻想编年史 10",
+    "categories": [
+      "RPG"
+    ],
+    "tags": [
+      "剧情向",
+      "回合制",
+      "奇幻"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "Steam",
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_114",
+    "title": "暗影行者 10",
+    "categories": [
+      "动作",
+      "潜行"
+    ],
+    "tags": [
+      "潜行",
+      "暗杀",
+      "忍者"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2016,
+    "platforms": [
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_115",
+    "title": "星际征途 10",
+    "categories": [
+      "射击",
+      "科幻"
+    ],
+    "tags": [
+      "太空",
+      "射击",
+      "科幻"
+    ],
+    "description": "这是一款射击类型的游戏",
+    "releaseYear": 2017,
+    "platforms": [
+      "PSN",
+      "Steam",
+      "Switch"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_116",
+    "title": "迷雾之森 10",
+    "categories": [
+      "冒险",
+      "解谜"
+    ],
+    "tags": [
+      "解谜",
+      "探索",
+      "神秘"
+    ],
+    "description": "这是一款冒险类型的游戏",
+    "releaseYear": 2021,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_117",
+    "title": "赛博都市 10",
+    "categories": [
+      "动作RPG",
+      "开放世界"
+    ],
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "科幻"
+    ],
+    "description": "这是一款动作RPG类型的游戏",
+    "releaseYear": 2019,
+    "platforms": [
+      "PSN",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_118",
+    "title": "机械纪元2077 10",
+    "categories": [
+      "动作",
+      "射击"
+    ],
+    "tags": [
+      "机甲",
+      "未来",
+      "科幻"
+    ],
+    "description": "这是一款动作类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN",
+      "Switch",
+      "Steam"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_119",
+    "title": "龙之遗产 10",
+    "categories": [
+      "RPG",
+      "动作"
+    ],
+    "tags": [
+      "龙",
+      "奇幻",
+      "探索"
+    ],
+    "description": "这是一款RPG类型的游戏",
+    "releaseYear": 2023,
+    "platforms": [
+      "Switch",
+      "PSN"
+    ],
+    "imageURL": null
+  },
+  {
+    "id": "game_120",
+    "title": "地下城传说 10",
+    "categories": [
+      "Roguelike",
+      "RPG"
+    ],
+    "tags": [
+      "地牢",
+      "随机",
+      "刷宝"
+    ],
+    "description": "这是一款Roguelike类型的游戏",
+    "releaseYear": 2018,
+    "platforms": [
+      "PSN"
+    ],
+    "imageURL": null
+  }
+]

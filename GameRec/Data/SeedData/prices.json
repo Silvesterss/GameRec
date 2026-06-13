@@ -1,0 +1,2392 @@
+[
+  {
+    "id": "game_001_PSN",
+    "gameId": "game_001",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 178.8,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727397"
+  },
+  {
+    "id": "game_001_Steam",
+    "gameId": "game_001",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727424"
+  },
+  {
+    "id": "game_002_PSN",
+    "gameId": "game_002",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727431"
+  },
+  {
+    "id": "game_002_Steam",
+    "gameId": "game_002",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727434"
+  },
+  {
+    "id": "game_003_PSN",
+    "gameId": "game_003",
+    "platform": "PSN",
+    "originalPrice": 198,
+    "currentPrice": 158.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727440"
+  },
+  {
+    "id": "game_003_Steam",
+    "gameId": "game_003",
+    "platform": "Steam",
+    "originalPrice": 198,
+    "currentPrice": 198.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727442"
+  },
+  {
+    "id": "game_004_PSN",
+    "gameId": "game_004",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727446"
+  },
+  {
+    "id": "game_004_Steam",
+    "gameId": "game_004",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 199.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727449"
+  },
+  {
+    "id": "game_004_Switch",
+    "gameId": "game_004",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727451"
+  },
+  {
+    "id": "game_005_PSN",
+    "gameId": "game_005",
+    "platform": "PSN",
+    "originalPrice": 458,
+    "currentPrice": 320.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727455"
+  },
+  {
+    "id": "game_005_Steam",
+    "gameId": "game_005",
+    "platform": "Steam",
+    "originalPrice": 458,
+    "currentPrice": 458.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727457"
+  },
+  {
+    "id": "game_006_PSN",
+    "gameId": "game_006",
+    "platform": "PSN",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727460"
+  },
+  {
+    "id": "game_006_Steam",
+    "gameId": "game_006",
+    "platform": "Steam",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727462"
+  },
+  {
+    "id": "game_007_PSN",
+    "gameId": "game_007",
+    "platform": "PSN",
+    "originalPrice": 127,
+    "currentPrice": 127.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727465"
+  },
+  {
+    "id": "game_007_Steam",
+    "gameId": "game_007",
+    "platform": "Steam",
+    "originalPrice": 127,
+    "currentPrice": 127.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727467"
+  },
+  {
+    "id": "game_007_Switch",
+    "gameId": "game_007",
+    "platform": "Switch",
+    "originalPrice": 127,
+    "currentPrice": 127.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727469"
+  },
+  {
+    "id": "game_008_PSN",
+    "gameId": "game_008",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727472"
+  },
+  {
+    "id": "game_008_Steam",
+    "gameId": "game_008",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727475"
+  },
+  {
+    "id": "game_008_Switch",
+    "gameId": "game_008",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727477"
+  },
+  {
+    "id": "game_009_PSN",
+    "gameId": "game_009",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 45.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727480"
+  },
+  {
+    "id": "game_009_Steam",
+    "gameId": "game_009",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727482"
+  },
+  {
+    "id": "game_009_Switch",
+    "gameId": "game_009",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727484"
+  },
+  {
+    "id": "game_010_Steam",
+    "gameId": "game_010",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727487"
+  },
+  {
+    "id": "game_010_Switch",
+    "gameId": "game_010",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727489"
+  },
+  {
+    "id": "game_011_PSN",
+    "gameId": "game_011",
+    "platform": "PSN",
+    "originalPrice": 48,
+    "currentPrice": 48.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727492"
+  },
+  {
+    "id": "game_011_Steam",
+    "gameId": "game_011",
+    "platform": "Steam",
+    "originalPrice": 48,
+    "currentPrice": 38.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727494"
+  },
+  {
+    "id": "game_011_Switch",
+    "gameId": "game_011",
+    "platform": "Switch",
+    "originalPrice": 48,
+    "currentPrice": 48.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727496"
+  },
+  {
+    "id": "game_012_Steam",
+    "gameId": "game_012",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727499"
+  },
+  {
+    "id": "game_013_PSN",
+    "gameId": "game_013",
+    "platform": "PSN",
+    "originalPrice": 299,
+    "currentPrice": 299.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727503"
+  },
+  {
+    "id": "game_013_Steam",
+    "gameId": "game_013",
+    "platform": "Steam",
+    "originalPrice": 299,
+    "currentPrice": 299.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727505"
+  },
+  {
+    "id": "game_013_Switch",
+    "gameId": "game_013",
+    "platform": "Switch",
+    "originalPrice": 299,
+    "currentPrice": 299.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727507"
+  },
+  {
+    "id": "game_014_PSN",
+    "gameId": "game_014",
+    "platform": "PSN",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727510"
+  },
+  {
+    "id": "game_014_Steam",
+    "gameId": "game_014",
+    "platform": "Steam",
+    "originalPrice": 199,
+    "currentPrice": 119.4,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727512"
+  },
+  {
+    "id": "game_015_PSN",
+    "gameId": "game_015",
+    "platform": "PSN",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727516"
+  },
+  {
+    "id": "game_015_Steam",
+    "gameId": "game_015",
+    "platform": "Steam",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727517"
+  },
+  {
+    "id": "game_016_PSN",
+    "gameId": "game_016",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727526"
+  },
+  {
+    "id": "game_017_PSN",
+    "gameId": "game_017",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727530"
+  },
+  {
+    "id": "game_017_Steam",
+    "gameId": "game_017",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727532"
+  },
+  {
+    "id": "game_017_Switch",
+    "gameId": "game_017",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 47.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727535"
+  },
+  {
+    "id": "game_018_PSN",
+    "gameId": "game_018",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727539"
+  },
+  {
+    "id": "game_018_Steam",
+    "gameId": "game_018",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727540"
+  },
+  {
+    "id": "game_018_Switch",
+    "gameId": "game_018",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727542"
+  },
+  {
+    "id": "game_019_PSN",
+    "gameId": "game_019",
+    "platform": "PSN",
+    "originalPrice": 98,
+    "currentPrice": 98.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727546"
+  },
+  {
+    "id": "game_019_Steam",
+    "gameId": "game_019",
+    "platform": "Steam",
+    "originalPrice": 98,
+    "currentPrice": 98.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727548"
+  },
+  {
+    "id": "game_019_Switch",
+    "gameId": "game_019",
+    "platform": "Switch",
+    "originalPrice": 98,
+    "currentPrice": 98.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727550"
+  },
+  {
+    "id": "game_020_Steam",
+    "gameId": "game_020",
+    "platform": "Steam",
+    "originalPrice": 88,
+    "currentPrice": 88.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727553"
+  },
+  {
+    "id": "game_021_PSN",
+    "gameId": "game_021",
+    "platform": "PSN",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727557"
+  },
+  {
+    "id": "game_021_Steam",
+    "gameId": "game_021",
+    "platform": "Steam",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727559"
+  },
+  {
+    "id": "game_021_Switch",
+    "gameId": "game_021",
+    "platform": "Switch",
+    "originalPrice": 199,
+    "currentPrice": 199.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727561"
+  },
+  {
+    "id": "game_022_Steam",
+    "gameId": "game_022",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727564"
+  },
+  {
+    "id": "game_023_Steam",
+    "gameId": "game_023",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727570"
+  },
+  {
+    "id": "game_024_PSN",
+    "gameId": "game_024",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727577"
+  },
+  {
+    "id": "game_024_Switch",
+    "gameId": "game_024",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 27.2,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727579"
+  },
+  {
+    "id": "game_025_Steam",
+    "gameId": "game_025",
+    "platform": "Steam",
+    "originalPrice": 198,
+    "currentPrice": 138.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727587"
+  },
+  {
+    "id": "game_025_PSN",
+    "gameId": "game_025",
+    "platform": "PSN",
+    "originalPrice": 198,
+    "currentPrice": 198.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727589"
+  },
+  {
+    "id": "game_026_PSN",
+    "gameId": "game_026",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727592"
+  },
+  {
+    "id": "game_026_Switch",
+    "gameId": "game_026",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 72.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727594"
+  },
+  {
+    "id": "game_027_Steam",
+    "gameId": "game_027",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727600"
+  },
+  {
+    "id": "game_028_Steam",
+    "gameId": "game_028",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727603"
+  },
+  {
+    "id": "game_028_PSN",
+    "gameId": "game_028",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727605"
+  },
+  {
+    "id": "game_028_Switch",
+    "gameId": "game_028",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727607"
+  },
+  {
+    "id": "game_029_Steam",
+    "gameId": "game_029",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727611"
+  },
+  {
+    "id": "game_030_Steam",
+    "gameId": "game_030",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 72.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727615"
+  },
+  {
+    "id": "game_030_Switch",
+    "gameId": "game_030",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727617"
+  },
+  {
+    "id": "game_030_PSN",
+    "gameId": "game_030",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727618"
+  },
+  {
+    "id": "game_031_Switch",
+    "gameId": "game_031",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727623"
+  },
+  {
+    "id": "game_032_PSN",
+    "gameId": "game_032",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 36.0,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727627"
+  },
+  {
+    "id": "game_032_Switch",
+    "gameId": "game_032",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727629"
+  },
+  {
+    "id": "game_033_Steam",
+    "gameId": "game_033",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 318.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727633"
+  },
+  {
+    "id": "game_033_Switch",
+    "gameId": "game_033",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727635"
+  },
+  {
+    "id": "game_034_Steam",
+    "gameId": "game_034",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727638"
+  },
+  {
+    "id": "game_035_Switch",
+    "gameId": "game_035",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727642"
+  },
+  {
+    "id": "game_036_Switch",
+    "gameId": "game_036",
+    "platform": "Switch",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727650"
+  },
+  {
+    "id": "game_036_PSN",
+    "gameId": "game_036",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727652"
+  },
+  {
+    "id": "game_036_Steam",
+    "gameId": "game_036",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727654"
+  },
+  {
+    "id": "game_037_PSN",
+    "gameId": "game_037",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727658"
+  },
+  {
+    "id": "game_037_Switch",
+    "gameId": "game_037",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 199.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727660"
+  },
+  {
+    "id": "game_037_Steam",
+    "gameId": "game_037",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727663"
+  },
+  {
+    "id": "game_038_Switch",
+    "gameId": "game_038",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727667"
+  },
+  {
+    "id": "game_038_PSN",
+    "gameId": "game_038",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 36.0,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727669"
+  },
+  {
+    "id": "game_039_PSN",
+    "gameId": "game_039",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727673"
+  },
+  {
+    "id": "game_040_Steam",
+    "gameId": "game_040",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727677"
+  },
+  {
+    "id": "game_040_Switch",
+    "gameId": "game_040",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727679"
+  },
+  {
+    "id": "game_041_Switch",
+    "gameId": "game_041",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727683"
+  },
+  {
+    "id": "game_042_Switch",
+    "gameId": "game_042",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 278.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727686"
+  },
+  {
+    "id": "game_043_Switch",
+    "gameId": "game_043",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727690"
+  },
+  {
+    "id": "game_043_Steam",
+    "gameId": "game_043",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 63.0,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727692"
+  },
+  {
+    "id": "game_044_PSN",
+    "gameId": "game_044",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727695"
+  },
+  {
+    "id": "game_044_Switch",
+    "gameId": "game_044",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727697"
+  },
+  {
+    "id": "game_045_Steam",
+    "gameId": "game_045",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727701"
+  },
+  {
+    "id": "game_045_Switch",
+    "gameId": "game_045",
+    "platform": "Switch",
+    "originalPrice": 298,
+    "currentPrice": 149.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727703"
+  },
+  {
+    "id": "game_045_PSN",
+    "gameId": "game_045",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727705"
+  },
+  {
+    "id": "game_046_PSN",
+    "gameId": "game_046",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727709"
+  },
+  {
+    "id": "game_047_PSN",
+    "gameId": "game_047",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727713"
+  },
+  {
+    "id": "game_047_Switch",
+    "gameId": "game_047",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727715"
+  },
+  {
+    "id": "game_048_Switch",
+    "gameId": "game_048",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727718"
+  },
+  {
+    "id": "game_049_Steam",
+    "gameId": "game_049",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727722"
+  },
+  {
+    "id": "game_049_PSN",
+    "gameId": "game_049",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727724"
+  },
+  {
+    "id": "game_049_Switch",
+    "gameId": "game_049",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727726"
+  },
+  {
+    "id": "game_050_Steam",
+    "gameId": "game_050",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727729"
+  },
+  {
+    "id": "game_050_Switch",
+    "gameId": "game_050",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 45.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727731"
+  },
+  {
+    "id": "game_050_PSN",
+    "gameId": "game_050",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727734"
+  },
+  {
+    "id": "game_051_Switch",
+    "gameId": "game_051",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727737"
+  },
+  {
+    "id": "game_051_Steam",
+    "gameId": "game_051",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727739"
+  },
+  {
+    "id": "game_051_PSN",
+    "gameId": "game_051",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727741"
+  },
+  {
+    "id": "game_052_Steam",
+    "gameId": "game_052",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 199.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727747"
+  },
+  {
+    "id": "game_052_PSN",
+    "gameId": "game_052",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727749"
+  },
+  {
+    "id": "game_053_Switch",
+    "gameId": "game_053",
+    "platform": "Switch",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 50,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727756"
+  },
+  {
+    "id": "game_054_PSN",
+    "gameId": "game_054",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727759"
+  },
+  {
+    "id": "game_054_Switch",
+    "gameId": "game_054",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 40.8,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727762"
+  },
+  {
+    "id": "game_054_Steam",
+    "gameId": "game_054",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727766"
+  },
+  {
+    "id": "game_055_PSN",
+    "gameId": "game_055",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727769"
+  },
+  {
+    "id": "game_055_Switch",
+    "gameId": "game_055",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727771"
+  },
+  {
+    "id": "game_055_Steam",
+    "gameId": "game_055",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727773"
+  },
+  {
+    "id": "game_056_Switch",
+    "gameId": "game_056",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727777"
+  },
+  {
+    "id": "game_056_PSN",
+    "gameId": "game_056",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727778"
+  },
+  {
+    "id": "game_056_Steam",
+    "gameId": "game_056",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 102.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727781"
+  },
+  {
+    "id": "game_057_PSN",
+    "gameId": "game_057",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 119.2,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727784"
+  },
+  {
+    "id": "game_058_PSN",
+    "gameId": "game_058",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727787"
+  },
+  {
+    "id": "game_058_Switch",
+    "gameId": "game_058",
+    "platform": "Switch",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727789"
+  },
+  {
+    "id": "game_059_PSN",
+    "gameId": "game_059",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727793"
+  },
+  {
+    "id": "game_059_Switch",
+    "gameId": "game_059",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727795"
+  },
+  {
+    "id": "game_059_Steam",
+    "gameId": "game_059",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727796"
+  },
+  {
+    "id": "game_060_PSN",
+    "gameId": "game_060",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 72.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727800"
+  },
+  {
+    "id": "game_060_Switch",
+    "gameId": "game_060",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727802"
+  },
+  {
+    "id": "game_060_Steam",
+    "gameId": "game_060",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 45.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727804"
+  },
+  {
+    "id": "game_061_Steam",
+    "gameId": "game_061",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727808"
+  },
+  {
+    "id": "game_062_Steam",
+    "gameId": "game_062",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727811"
+  },
+  {
+    "id": "game_062_PSN",
+    "gameId": "game_062",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727814"
+  },
+  {
+    "id": "game_062_Switch",
+    "gameId": "game_062",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 36.0,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727816"
+  },
+  {
+    "id": "game_063_Switch",
+    "gameId": "game_063",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727820"
+  },
+  {
+    "id": "game_063_Steam",
+    "gameId": "game_063",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 24.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727824"
+  },
+  {
+    "id": "game_064_Steam",
+    "gameId": "game_064",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727828"
+  },
+  {
+    "id": "game_064_PSN",
+    "gameId": "game_064",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727830"
+  },
+  {
+    "id": "game_064_Switch",
+    "gameId": "game_064",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727832"
+  },
+  {
+    "id": "game_065_Steam",
+    "gameId": "game_065",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727835"
+  },
+  {
+    "id": "game_066_Switch",
+    "gameId": "game_066",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 63.0,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727839"
+  },
+  {
+    "id": "game_066_PSN",
+    "gameId": "game_066",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727843"
+  },
+  {
+    "id": "game_066_Steam",
+    "gameId": "game_066",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727845"
+  },
+  {
+    "id": "game_067_Switch",
+    "gameId": "game_067",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727849"
+  },
+  {
+    "id": "game_068_PSN",
+    "gameId": "game_068",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727852"
+  },
+  {
+    "id": "game_069_PSN",
+    "gameId": "game_069",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727855"
+  },
+  {
+    "id": "game_069_Switch",
+    "gameId": "game_069",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 160.8,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727858"
+  },
+  {
+    "id": "game_070_Steam",
+    "gameId": "game_070",
+    "platform": "Steam",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727861"
+  },
+  {
+    "id": "game_070_PSN",
+    "gameId": "game_070",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727862"
+  },
+  {
+    "id": "game_070_Switch",
+    "gameId": "game_070",
+    "platform": "Switch",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 40,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727864"
+  },
+  {
+    "id": "game_071_Steam",
+    "gameId": "game_071",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727868"
+  },
+  {
+    "id": "game_071_PSN",
+    "gameId": "game_071",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727870"
+  },
+  {
+    "id": "game_071_Switch",
+    "gameId": "game_071",
+    "platform": "Switch",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727871"
+  },
+  {
+    "id": "game_072_PSN",
+    "gameId": "game_072",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727875"
+  },
+  {
+    "id": "game_073_Steam",
+    "gameId": "game_073",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727881"
+  },
+  {
+    "id": "game_073_Switch",
+    "gameId": "game_073",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727883"
+  },
+  {
+    "id": "game_073_PSN",
+    "gameId": "game_073",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727884"
+  },
+  {
+    "id": "game_074_Switch",
+    "gameId": "game_074",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727888"
+  },
+  {
+    "id": "game_074_PSN",
+    "gameId": "game_074",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 102.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727890"
+  },
+  {
+    "id": "game_075_Steam",
+    "gameId": "game_075",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727894"
+  },
+  {
+    "id": "game_076_PSN",
+    "gameId": "game_076",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727897"
+  },
+  {
+    "id": "game_077_Switch",
+    "gameId": "game_077",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727901"
+  },
+  {
+    "id": "game_078_Steam",
+    "gameId": "game_078",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727904"
+  },
+  {
+    "id": "game_079_Steam",
+    "gameId": "game_079",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727909"
+  },
+  {
+    "id": "game_079_PSN",
+    "gameId": "game_079",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727911"
+  },
+  {
+    "id": "game_080_Switch",
+    "gameId": "game_080",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727915"
+  },
+  {
+    "id": "game_080_PSN",
+    "gameId": "game_080",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727917"
+  },
+  {
+    "id": "game_081_Switch",
+    "gameId": "game_081",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727920"
+  },
+  {
+    "id": "game_081_PSN",
+    "gameId": "game_081",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727922"
+  },
+  {
+    "id": "game_081_Steam",
+    "gameId": "game_081",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 89.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727924"
+  },
+  {
+    "id": "game_082_Steam",
+    "gameId": "game_082",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727928"
+  },
+  {
+    "id": "game_083_PSN",
+    "gameId": "game_083",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727932"
+  },
+  {
+    "id": "game_083_Steam",
+    "gameId": "game_083",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727934"
+  },
+  {
+    "id": "game_084_Steam",
+    "gameId": "game_084",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727940"
+  },
+  {
+    "id": "game_085_Steam",
+    "gameId": "game_085",
+    "platform": "Steam",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 30,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727952"
+  },
+  {
+    "id": "game_085_Switch",
+    "gameId": "game_085",
+    "platform": "Switch",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.727954"
+  },
+  {
+    "id": "game_086_Switch",
+    "gameId": "game_086",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727957"
+  },
+  {
+    "id": "game_086_Steam",
+    "gameId": "game_086",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727960"
+  },
+  {
+    "id": "game_087_Steam",
+    "gameId": "game_087",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727963"
+  },
+  {
+    "id": "game_088_Switch",
+    "gameId": "game_088",
+    "platform": "Switch",
+    "originalPrice": 198,
+    "currentPrice": 198.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727967"
+  },
+  {
+    "id": "game_089_Switch",
+    "gameId": "game_089",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727970"
+  },
+  {
+    "id": "game_090_PSN",
+    "gameId": "game_090",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 178.8,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727974"
+  },
+  {
+    "id": "game_091_Switch",
+    "gameId": "game_091",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 63.0,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727978"
+  },
+  {
+    "id": "game_091_PSN",
+    "gameId": "game_091",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727980"
+  },
+  {
+    "id": "game_092_PSN",
+    "gameId": "game_092",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727984"
+  },
+  {
+    "id": "game_092_Switch",
+    "gameId": "game_092",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727986"
+  },
+  {
+    "id": "game_092_Steam",
+    "gameId": "game_092",
+    "platform": "Steam",
+    "originalPrice": 398,
+    "currentPrice": 199.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727989"
+  },
+  {
+    "id": "game_093_Switch",
+    "gameId": "game_093",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727992"
+  },
+  {
+    "id": "game_094_PSN",
+    "gameId": "game_094",
+    "platform": "PSN",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727996"
+  },
+  {
+    "id": "game_094_Switch",
+    "gameId": "game_094",
+    "platform": "Switch",
+    "originalPrice": 398,
+    "currentPrice": 398.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.727997"
+  },
+  {
+    "id": "game_095_PSN",
+    "gameId": "game_095",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 54.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728002"
+  },
+  {
+    "id": "game_095_Switch",
+    "gameId": "game_095",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 72.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728004"
+  },
+  {
+    "id": "game_095_Steam",
+    "gameId": "game_095",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728006"
+  },
+  {
+    "id": "game_096_Switch",
+    "gameId": "game_096",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 54.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728012"
+  },
+  {
+    "id": "game_096_Steam",
+    "gameId": "game_096",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728013"
+  },
+  {
+    "id": "game_096_PSN",
+    "gameId": "game_096",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728015"
+  },
+  {
+    "id": "game_097_Switch",
+    "gameId": "game_097",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728019"
+  },
+  {
+    "id": "game_097_Steam",
+    "gameId": "game_097",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728021"
+  },
+  {
+    "id": "game_097_PSN",
+    "gameId": "game_097",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 54.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728023"
+  },
+  {
+    "id": "game_098_PSN",
+    "gameId": "game_098",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728026"
+  },
+  {
+    "id": "game_098_Steam",
+    "gameId": "game_098",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728028"
+  },
+  {
+    "id": "game_099_PSN",
+    "gameId": "game_099",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728032"
+  },
+  {
+    "id": "game_099_Switch",
+    "gameId": "game_099",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 34.0,
+    "discountPercentage": 50,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728034"
+  },
+  {
+    "id": "game_100_Switch",
+    "gameId": "game_100",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728037"
+  },
+  {
+    "id": "game_100_PSN",
+    "gameId": "game_100",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728039"
+  },
+  {
+    "id": "game_100_Steam",
+    "gameId": "game_100",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 32.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728044"
+  },
+  {
+    "id": "game_101_Switch",
+    "gameId": "game_101",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 27.2,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728047"
+  },
+  {
+    "id": "game_102_Steam",
+    "gameId": "game_102",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 89.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728051"
+  },
+  {
+    "id": "game_103_Steam",
+    "gameId": "game_103",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728054"
+  },
+  {
+    "id": "game_104_Steam",
+    "gameId": "game_104",
+    "platform": "Steam",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728058"
+  },
+  {
+    "id": "game_105_Steam",
+    "gameId": "game_105",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728061"
+  },
+  {
+    "id": "game_105_PSN",
+    "gameId": "game_105",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728063"
+  },
+  {
+    "id": "game_105_Switch",
+    "gameId": "game_105",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728065"
+  },
+  {
+    "id": "game_106_Steam",
+    "gameId": "game_106",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728072"
+  },
+  {
+    "id": "game_107_Switch",
+    "gameId": "game_107",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728076"
+  },
+  {
+    "id": "game_108_Steam",
+    "gameId": "game_108",
+    "platform": "Steam",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 0,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.728079"
+  },
+  {
+    "id": "game_109_PSN",
+    "gameId": "game_109",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728082"
+  },
+  {
+    "id": "game_109_Steam",
+    "gameId": "game_109",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 28.0,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728085"
+  },
+  {
+    "id": "game_109_Switch",
+    "gameId": "game_109",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 32.0,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728087"
+  },
+  {
+    "id": "game_110_Steam",
+    "gameId": "game_110",
+    "platform": "Steam",
+    "originalPrice": 68,
+    "currentPrice": 27.2,
+    "discountPercentage": 60,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728091"
+  },
+  {
+    "id": "game_110_Switch",
+    "gameId": "game_110",
+    "platform": "Switch",
+    "originalPrice": 68,
+    "currentPrice": 54.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728093"
+  },
+  {
+    "id": "game_110_PSN",
+    "gameId": "game_110",
+    "platform": "PSN",
+    "originalPrice": 68,
+    "currentPrice": 68.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728095"
+  },
+  {
+    "id": "game_111_Steam",
+    "gameId": "game_111",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 208.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728099"
+  },
+  {
+    "id": "game_111_Switch",
+    "gameId": "game_111",
+    "platform": "Switch",
+    "originalPrice": 298,
+    "currentPrice": 178.8,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728101"
+  },
+  {
+    "id": "game_111_PSN",
+    "gameId": "game_111",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728103"
+  },
+  {
+    "id": "game_112_PSN",
+    "gameId": "game_112",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 208.6,
+    "discountPercentage": 30,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728107"
+  },
+  {
+    "id": "game_112_Steam",
+    "gameId": "game_112",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728109"
+  },
+  {
+    "id": "game_113_Steam",
+    "gameId": "game_113",
+    "platform": "Steam",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728112"
+  },
+  {
+    "id": "game_113_Switch",
+    "gameId": "game_113",
+    "platform": "Switch",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728114"
+  },
+  {
+    "id": "game_113_PSN",
+    "gameId": "game_113",
+    "platform": "PSN",
+    "originalPrice": 90,
+    "currentPrice": 90.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728116"
+  },
+  {
+    "id": "game_114_Switch",
+    "gameId": "game_114",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728120"
+  },
+  {
+    "id": "game_115_PSN",
+    "gameId": "game_115",
+    "platform": "PSN",
+    "originalPrice": 40,
+    "currentPrice": 24.0,
+    "discountPercentage": 40,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728124"
+  },
+  {
+    "id": "game_115_Steam",
+    "gameId": "game_115",
+    "platform": "Steam",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728127"
+  },
+  {
+    "id": "game_115_Switch",
+    "gameId": "game_115",
+    "platform": "Switch",
+    "originalPrice": 40,
+    "currentPrice": 40.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728129"
+  },
+  {
+    "id": "game_116_PSN",
+    "gameId": "game_116",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728133"
+  },
+  {
+    "id": "game_117_PSN",
+    "gameId": "game_117",
+    "platform": "PSN",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728136"
+  },
+  {
+    "id": "game_117_Steam",
+    "gameId": "game_117",
+    "platform": "Steam",
+    "originalPrice": 298,
+    "currentPrice": 298.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728138"
+  },
+  {
+    "id": "game_118_PSN",
+    "gameId": "game_118",
+    "platform": "PSN",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728144"
+  },
+  {
+    "id": "game_118_Switch",
+    "gameId": "game_118",
+    "platform": "Switch",
+    "originalPrice": 128,
+    "currentPrice": 128.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728146"
+  },
+  {
+    "id": "game_118_Steam",
+    "gameId": "game_118",
+    "platform": "Steam",
+    "originalPrice": 128,
+    "currentPrice": 102.4,
+    "discountPercentage": 20,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728148"
+  },
+  {
+    "id": "game_119_Switch",
+    "gameId": "game_119",
+    "platform": "Switch",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728152"
+  },
+  {
+    "id": "game_119_PSN",
+    "gameId": "game_119",
+    "platform": "PSN",
+    "originalPrice": 268,
+    "currentPrice": 268.0,
+    "discountPercentage": 0,
+    "isFree": false,
+    "lastUpdated": "2026-06-13T10:14:14.728154"
+  },
+  {
+    "id": "game_120_PSN",
+    "gameId": "game_120",
+    "platform": "PSN",
+    "originalPrice": 0,
+    "currentPrice": 0,
+    "discountPercentage": 60,
+    "isFree": true,
+    "lastUpdated": "2026-06-13T10:14:14.728158"
+  }
+]
